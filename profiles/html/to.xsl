@@ -510,4 +510,52 @@
       </ul>
    </xsl:template>
    
+   <xsldoc:doc xmlns:xsldoc="http://www.oxygenxml.com/ns/doc/xsl">
+      <xsldoc:desc>Na naslovno stran dam diske z naslovi vseh novic</xsldoc:desc>
+   </xsldoc:doc>
+   <xsl:template match="tei:titlePage">
+      <!-- je samo naslov -->
+      <xsl:for-each select="tei:docTitle/tei:titlePart[1]">
+         <h1 class="text-center"><xsl:value-of select="."/></h1>
+         <xsl:for-each select="following-sibling::tei:titlePart">
+            <h1 class="subheader podnaslov"><xsl:value-of select="."/></h1>
+         </xsl:for-each>
+      </xsl:for-each>
+      <figure>
+         <img src="wp-legacy/uploads/2016/11/logo-zzds.png"/>
+      </figure>
+      <br/>
+      <hr/>
+      <h2>Novice:</h2>
+      <xsl:for-each select="ancestor::tei:text/tei:body/tei:div">
+         <div class="callout { if (position() = 1) then 'alert' else 'secondary'}" data-closable="">
+            <xsl:choose>
+               <xsl:when test="position() = 1">
+                  <h3>
+                     <xsl:value-of select="tei:head"/>
+                  </h3>
+                  <span class="label alert">
+                     <xsl:value-of select="format-date(tei:docDate/@when,'[D1]. [M1]. [Y0001]')"/>
+                  </span>
+                  <xsl:apply-templates/>
+               </xsl:when>
+               <xsl:otherwise>
+                  <h3>
+                     <xsl:value-of select="tei:head"/>
+                  </h3>
+                  <span class="label secondary">
+                     <xsl:value-of select="format-date(tei:docDate/@when,'[D1]. [M1]. [Y0001]')"/>
+                  </span>
+                  <p>
+                     <a href="{@xml:id}.html">Preberi novico</a>
+                  </p>
+               </xsl:otherwise>
+            </xsl:choose>
+            <button class="close-button" aria-label="Dismiss alert" type="button" data-close="" style="background-color: inherit;">
+               <span aria-hidden="true">&#xD7;</span>
+            </button>
+         </div>
+      </xsl:for-each>
+   </xsl:template>
+   
 </xsl:stylesheet>
