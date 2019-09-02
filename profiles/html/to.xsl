@@ -60,7 +60,7 @@
    <xsl:param name="outputDir">docs/</xsl:param>
    
    <xsl:param name="homeLabel">ZZDS</xsl:param>
-   <xsl:param name="homeURL">http://zzds.si/</xsl:param>
+   <xsl:param name="homeURL">https://zzds.si/</xsl:param>
    
    <!-- Iz datoteke ../../../../publikacije-XSLT/sistory/html5-foundation6-chs/my-html_param.xsl -->
    <xsl:param name="title-bar-sticky">false</xsl:param>
@@ -75,9 +75,9 @@
    <xsl:param name="numberTables"></xsl:param>
    
    <!-- V html/head izpisani metapodatki -->
-   <xsl:param name="description"></xsl:param>
-   <xsl:param name="keywords"></xsl:param>
-   <xsl:param name="title"></xsl:param>
+   <xsl:param name="description">Spletna stran Zveze zgodovinskih društev Slovenije</xsl:param>
+   <xsl:param name="keywords">ZZDS, zgodovina, Slovenija, društvo</xsl:param>
+   <xsl:param name="title">Zveza zgodovinskih društev Slovenije</xsl:param>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc>Ne procesiram štetja besed v kolofonu</desc>
