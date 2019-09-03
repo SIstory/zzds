@@ -139,6 +139,16 @@
                   Kočevje</p>
             </div>
          </div>
+         <div type="preface" xml:id="kontakt">
+            <head xml:id="kontakt-head-1">Kontakt</head>
+            <p xml:id="kontakt-p-1">Zveza zgodovinskih društev Slovenije<lb/>
+               HAS - Historical Association of Slovenia<lb/>
+               Aškerčeva 2<lb/>
+               1000 Ljubljana</p>
+            <p xml:id="kontakt-p-2">Davčna št. 95580182<lb/> Matična št. 5241367</p>
+            <p xml:id="kontakt-p-3">Mail: <ref target="mailto:Info@zzds.si">Info@zzds.si</ref></p>
+            <p xml:id="kontakt-p-4">Tel: <ref target="tel:0038612411492">+386 1 241 14 92</ref></p>
+         </div>
          <div type="preface" xml:id="statut-drustva">
             <head xml:id="head-9">Statut društva</head>
             <p xml:id="p-21">
