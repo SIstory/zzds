@@ -131,7 +131,7 @@
                <ref target="https://isn2.zrc-sazu.si/sl">Inštitut za slovensko
                   narodopisje</ref>,<lb/> ZRC SAZU, Novi trg 2, <lb/>p.p. 306, 1000
                Ljubljana</p>
-            <p xml:id="zzds-p-19">dr. <hi rend="bold">Gašper Mithans</hi>, predsednik Sekcije za interdisciplinarno poovezovanje<lb/>
+            <p xml:id="zzds-p-19">dr. <hi rend="bold">Gašper Mithans</hi>, predsednik Sekcije za interdisciplinarno povezovanje<lb/>
                <ref target="mailto:gasper.mithans@zrs-kp.si">gasper.mithans@zrs-kp.si</ref>
                <lb/>ZRC Koper - Znanstveno-raziskovalno središče
                Koper, Inštitut za zgodovinske študije<lb/>Garibaldijeva 1, 6000 Koper</p>
@@ -451,6 +451,14 @@
             <head xml:id="head-10">Predsedniki društva</head>
             <table xml:id="table-1">
                <row>
+                  <cell>2018-</cell>
+                  <cell>Dragica Čeč</cell>
+               </row>
+               <row>
+                  <cell>2014-2018</cell>
+                  <cell>Branko Šuštar</cell>
+               </row>
+               <row>
                   <cell>2010-2014</cell>
                   <cell>Matevž Košir</cell>
                </row>
@@ -549,9 +557,6 @@
                   <ref target="http://zdjp.si/">Zgodovinsko društvo za južno Primorsko</ref>
                </item>
                <item>
-                  <ref target="mailto:renato.podbersic@guest.arnes.si">Zgodovinsko društvo za
-                     severno Primorsko</ref>,</item>
-               <item>
                   <ref target="mailto:natasa.kolar@pmpo.si">Zgodovinsko društvo Ptuj</ref>
                </item>
                <item>
@@ -564,10 +569,6 @@
                <item>
                   <ref target="mailto:ivan.rihtaric@gmail.com">Zgodovinsko društvo Gornja
                      Radgona</ref>
-               </item>
-               <item>
-                  <ref target="mailto:judita.podgornik.zaletelj@zvkds.si">Zgodovinsko društvo v
-                     Novem mestu</ref>
                </item>
                <item>
                   <ref target="http://zdk.si/">Zgodovinsko društvo za Koroško</ref>
@@ -606,6 +607,7 @@
                      stoletja</ref>
                </item>
             </list>
+            <p><hi rend="bold">Druge povezave:</hi></p>
             <list rend="bulleted" xml:id="list-13">
                <head>Arhivi:</head>
                <item>
