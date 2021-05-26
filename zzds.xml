@@ -1506,10 +1506,10 @@
       <body>
          <div type="chapter" xml:id="post-2021-05-26">
             <docDate when="2021-05-26" xml:id="zzds3-docDate-1"/>
-            <head>Vabilo: Razglasitev prejemnikov nagrade KLIO in priznanja Ervina Dolenca, 26. 5. 2021 ob
+            <head xml:id="post-2021-05-26-head1">Vabilo: Razglasitev prejemnikov nagrade KLIO in priznanja Ervina Dolenca, 26. 5. 2021 ob
                14.00 uri</head>
-            <p>Spoštovani,</p>
-            <p>v sredo, 26. 5. 2021 ob 14:00 uri, bodo prek platforme ZOOM razglašeni prejemniki
+            <p xml:id="post-2021-05-26-p1">Spoštovani,</p>
+            <p xml:id="post-2021-05-26-p2">v sredo, 26. 5. 2021 ob 14:00 uri, bodo prek platforme ZOOM razglašeni prejemniki
                nagrade KLIO, nagrade za najboljšo zgodovinsko študijo, za leti 2018 in 2019, in
                dobitnik priznanja Ervina Dolenca za najboljši prvenec s področja zgodovinopisja. 
                <list><head>Nominiranci za nagrado KLIO so (po abecednem vrstnem redu):</head>            
@@ -1528,9 +1528,9 @@
                   <item>Petra Svoljšak, Gregor Antoličič: <hi rend="bold">Leta strahote. Slovenci
                         in prva svetovna vojna</hi>. Ljubljana 2018.</item>
                </list></p>
-            <p>Dogodek bo mogoče spremljati prek sledeče povezave:<lb/>
+            <p xml:id="post-2021-05-26-p3">Dogodek bo mogoče spremljati prek sledeče povezave:<lb/>
                <ref target="https://uni-lj-si.zoom.us/j/97651233177">https://uni-lj-si.zoom.us/j/97651233177</ref><lb/>Meeting ID: 976 5123 3177.</p>
-            <p>Vljudno vabljeni!<lb/>Zveza zgodovinskih društev Slovenije</p>
+            <p xml:id="post-2021-05-26-p4">Vljudno vabljeni!<lb/>Zveza zgodovinskih društev Slovenije</p>
          </div>
          <div type="chaper" xml:id="post-2019-12-02">
             <docDate when="2019-12-02" xml:id="zzds2-docDate-1"/>
