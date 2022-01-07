@@ -100,12 +100,11 @@
                <hi>,<lb/> Univerza v Ljubljani, Filozofska fakulteta,<lb/> Aškerčeva 2, 1000
                   Ljubljana</hi>
             </p>
-            <p xml:id="zzds-p-14">Major mag. <hi rend="bold">Zvezdan Marković</hi>, predsednik Sekcije za
-               vojaško zgodovino,<lb/>
-               <ref target="mailto:zvezdan.markovic@gmail.com"
-                  >zvezdan.markovic@gmail.com</ref>
-               <lb/> Vojaški muzej Slovenske vojske,<lb/> Kadetnica,<lb/> Engelsova ulica 15,
-               2111 Maribor</p>
+            <p xml:id="zzds-p-14">Major mag. <hi rend="bold">Zvezdan Marković</hi>, predsednik
+               Sekcije za vojaško zgodovino,<lb/>
+               <ref target="mailto:zvezdan.markovic@gmail.com">zvezdan.markovic@gmail.com</ref>
+               <lb/> Vojaški muzej Slovenske vojske,<lb/> Kadetnica,<lb/> Engelsova ulica 15, 2111
+               Maribor</p>
             <p xml:id="zzds-p-15">dr. <hi rend="bold">Žiga Zwitter</hi>, predsednik Raziskovalne sekcije,<lb/>
                <ref target="mailto:ziga.zwitter@ff.uni-lj.si">ziga.zwitter@ff.uni-lj.si</ref>
                <lb/> Univerza v Ljubljani, Filozofska fakulteta,<lb/> Aškerčeva 2, 1000
@@ -183,264 +182,363 @@
             <p xml:id="kontakt-p-4">Tel: <ref target="tel:0038612411492">+386 1 241 14 92</ref>
             </p>
          </div>
-         <div type="preface" xml:id="statut-drustva">
-            <head xml:id="head-9">Statut društva</head>
-            <p xml:id="p-21">
-               <hi rend="bold">1. člen</hi>
-            </p>
-            <p xml:id="p-22">Društvo se imenuje Zveza zgodovinskih društev Slovenije ( v nadaljnjem
-               besedilu: ZZDS). ZZDS je zveza lokalnih in regionalnih društev. Območje delovanja
-               ZZDS je Republika Slovenija. Kot pridruženi, vendar enakopravni člani so tudi
-               pripadniki sorodnih združenj v Italiji, Avstriji in na Madžarskem. Društvo je
-               strokovno. Njegovo delo je javno. Sedež društva je na Oddelku za zgodovino Filozofske
-               fakultete v Ljubljani, Aškerčeva 2.</p>
-            <p xml:id="p-23">
-               <hi rend="bold">2. člen</hi>
-            </p>
-            <p xml:id="p-24">Pečat ZZDS je okrogel z besedilom: Zveza zgodovinskih društev
-               Slovenije. Pod obodom v sredini ima stilizirano peščeno uro.</p>
-            <p xml:id="p-25">
-               <hi rend="bold">3. člen</hi>
-            </p>
-            <p xml:id="p-26">ZZDS je pravna oseba, ki jo zastopa in zanjo podpisuje predsednik
-               društva, v njegovi odsotnosti pa podpredsednik ali pooblaščeni član izvršilnega
-               odbora.</p>
-            <p xml:id="p-27">Delo društva in njegovih organov je javno.</p>
-            <p xml:id="p-28">Svoje člane obvešča društvo:</p>
-            <list rend="bulleted" xml:id="list-3">
-               <item>s pravico vpogleda članov v zapisnike organov društva,</item>
-               <item>preko društvenega glasila,</item>
-               <item>preko sredstev javnega obveščanja.</item>
-            </list>
-            <p xml:id="p-29">Širšo javnost obvešča društvo o svojem delu tako, da so seje organov
-               društva javne, da organizira okrogle mize, tiskovne konference, na svoje seje vabi
-               predstavnike zainteresiranih organov, ustanov, organizacij ter predstavnike sredstev
-               javnega obveščanja.</p>
-            <p xml:id="p-30">Za zagotovitev javnosti dela in dajanje točnih informacij o delu
-               društva je odgovoren predsednik društva.</p>
-            <p xml:id="p-31">
-               <hi rend="bold">4. člen</hi>
-            </p>
-            <p xml:id="p-32">Namen ZZDS je:</p>
-            <list rend="bulleted" xml:id="list-4">
-               <item>povezovati delo zgodovinskih, muzejskih, arhivskih in sorodnih društev;</item>
-               <item>gojiti in spodbujati zgodovinsko zavest;</item>
-               <item>pospeševati znanstveno in raziskovalno delo na področju zgodovine v Sloveniji
-                  in po svetu;</item>
-               <item>sodelovati pri oblikovanju in izvajanju pedagoškega dela na področju zgodovine
-                  in sorodnih ved;</item>
-               <item>dajati pobude za zbiranje in ohranjanje kulturne dediščine.</item>
-            </list>
-            <p xml:id="p-33">Pri svojem delu se ZZDS povezuje s sorodnimi društvi v Sloveniji in po
-               svetu.</p>
-            <p xml:id="p-34">
-               <hi rend="bold">5. člen</hi>
-            </p>
-            <p xml:id="p-35">Dejavnost ZZDS je:</p>
-            <list rend="bulleted" xml:id="list-5">
-               <item>v skladu z 59. členom Ustave RS zavzemanje za svobodo in avtonomijo
-                  znanstvenega in strokovnega ter pedagoškega dela ;</item>
-               <item>skrb za varstvo pravic, ki izvirajo iz znanstveno-raziskovalne dejavnosti
-                  ;</item>
-               <item>prirejanje zborovanj, znanstvenih in strokovnih predavanj, izletov, razstav in
-                  podobnih prireditev ;</item>
-               <item>izdajanje osrednjega glasila Zgodovinski časopis, revije Kronika in drugih
-                  publikacij.</item>
-            </list>
-            <p xml:id="p-36">Uredništva periodičnih in izrednih publikacij delujejo strokovno in
-               finančno avtonomno. Imenuje jih izvršilni odbor ZZDS ;</p>
-            <list rend="bulleted" xml:id="list-6">
-               <item>dajanje pobud in strokovnih mnenj glede izobraževanja in raziskovanja zgodovine
-                  ;</item>
-               <item>skrb za knjižnico in za zamenjavo publikacij.</item>
-            </list>
-            <p xml:id="p-37">Za izpolnjevanje navedenih namenov in nalog si bo ZZDS prizadevalo
-               pridobiti status zveze, ki dela v javnem interesu. Za delovanje v javnem interesu si
-               ZZDS pridobi odločbo pristojnega upravnega organa.</p>
-            <p xml:id="p-38">
-               <hi rend="bold">6. člen</hi>
-            </p>
-            <p xml:id="p-39">ZZDS ima redno in častno članstvo.</p>
-            <p xml:id="p-40">Redni člani so lokalna in regionalna društva in zamejska združenja, ki
-               soglašajo z načeli delovanja ZZDS in se ravnajo po njegovih pravilih. Kot lokalna in
-               regionalna društva se lahko sprejmejo tista, katerih dejavnost je v skladu s 4.
-               členom.</p>
-            <p xml:id="p-41">Častni član ZZDS postane na podlagi predloga lokalnega ali regionalnega
-               društva oseba, ki se je odlikovala z delom v društvu ali ima posebne zasluge za
-               razvoj zgodovinske znanosti.</p>
-            <p xml:id="p-42">Njihovo članstvo preneha s prenehanjem delovanja ali izstopom iz ZZDS.
-               Izključitev je mogoča v primeru grobe kršitve pravil ZZDS ali zakona in mora z njim
-               soglašati večina lokalnih in regionalnih društev.</p>
-            <p xml:id="p-43">
-               <hi rend="bold">7. člen</hi>
-            </p>
-            <p xml:id="p-44">Posameznik postane član ZZDS z vstopom v lokalno ali regionalno
-               društvo.</p>
-            <p xml:id="p-45">Lokalna in regionalna društva postanejo člani ZZDS s podpisom pristopne
-               izjave.</p>
-            <p xml:id="p-46">
-               <hi rend="bold">8. člen</hi>
-            </p>
-            <p xml:id="p-47">Organi društva so:</p>
-            <list rend="bulleted" xml:id="list-7">
-               <item>občni zbor;</item>
-               <item>izvršilni odbor (v nadaljnjem besedilu IO);</item>
-               <item>predsedstvo IO;</item>
-               <item>odbori sekcij;</item>
-               <item>nadzorni odbor;</item>
-               <item>častno razsodišče.</item>
-            </list>
-            <p xml:id="p-48">Organi društva so voljeni za dobo dveh let.</p>
-            <p xml:id="p-49">
-               <hi rend="bold">9. člen</hi>
-            </p>
-            <p xml:id="p-50">Občni zbor je sklepčen, če so navzoči predstavniki večine lokalnih in
-               regionalnih društev in zamejskih združenj. Če ni navzoča polovica vseh predstavnikov,
-               je občni zbor sklepčen pol ure po uri sklica ob udeležbi prisotnih društev.</p>
-            <p xml:id="p-51">Glasovanje je praviloma tajno, razen če se ne sklene drugače.</p>
-            <p xml:id="p-52">
-               <hi rend="bold">10. člen</hi>
-            </p>
-            <p xml:id="p-53">Občni zbor ZZDS se sestane vsaki dve leti in:</p>
-            <list rend="bulleted" xml:id="list-8">
-               <item>sklepa o sprejemu statuta ZZDS, drugih pravil ZZDS in o programu dela
-                  ZZDS;</item>
-               <item>sklepa o prošnjah in pritožbah;</item>
-               <item>sprejema poročila o delu in poslovanju organov ZZDS;</item>
-               <item>voli predsednika ZZDS in ostale člane IO, nadzornega odbora in častnega
-                  razsodišča</item>
-               <item>sprejema finančni račun za dobo dveh let in zaključno poročilo</item>
-               <item>dokončno odloča o izključitvi člana.</item>
-            </list>
-            <p xml:id="p-54">
-               <hi rend="bold">11. člen</hi>
-            </p>
-            <p xml:id="p-55">Izredni občni zbor skliče IO. Sklicati ga mora na zahtevo vsaj dveh
-               lokalnih ali regionalnih društev ali nadzornega odbora v roku enega meseca po prejemu
-               pismene zahteve. Če tega ne stori, ga lahko skličejo člani, ki so sklic
-               zahtevali.</p>
-            <p xml:id="p-56">Izredni občni zbor lahko sklepa le o zadevah, zaradi katerih je bil
-               sklican.</p>
-            <p xml:id="p-57">
-               <hi rend="bold">12. člen</hi>
-            </p>
-            <p xml:id="p-58">IO sestavljajo predsedstvo ZZDS, predstavniki lokalnih in regionalnih
-               društev, predsedniki sekcij in uredniki glasil ZZDS.</p>
-            <p xml:id="p-59">IO se sestane vsaj enkrat letno in:</p>
-            <list rend="bulleted" xml:id="list-9">
-               <item>potrjuje sprejem novih lokalnih in regionalnih društev;</item>
-               <item>sprejema letna poročila predsedstva, urednikov glasil in drugih organov ZZDS
-                  ter poročilo o finančnem poslovanju;</item>
-               <item>določa višino članarine;</item>
-               <item>sprejema pravila o izdajanju glasil ZZDS in imenuje člane organov glasil, po
-                  določilih zakona o tisku;</item>
-               <item>podeljuje priznanja in častno članstvo ZZDS.</item>
-            </list>
-            <p xml:id="p-60">Na seje IO ZZDS je redno vabljen predsednik nadzornega odbora.</p>
-            <p xml:id="p-61">
-               <hi rend="bold">13. člen</hi>
-            </p>
-            <p xml:id="p-62">Predsedstvo sestavljajo predsednik, podpredsednika, tajnik in
-               predsednik nadzornega odbora.</p>
-            <p xml:id="p-63">Predsedstvo lahko po potrebi enemu izmed svojih članov poveri skrb za
-               finančno vprašanje ZZDS.</p>
-            <p xml:id="p-64">Sklepi na sejah predsedstva so sprejeti z večino. Če je glasovanje na
-               seji predsedstva neodločeno, prevlada glas predsednika.</p>
-            <p xml:id="p-65">Predsedstvo vodi tekoče poslovanje ZZDS, sklicuje občni zbor in po
-               potrebi ustanavlja začasne komisije. Za svoje delo odgovarja IO.</p>
-            <p xml:id="p-66">
-               <hi rend="bold">14. člen</hi>
-            </p>
-            <p xml:id="p-67">Sekcije ZZDS ustanovi IO na predlog članov lokalnih in regionalnih
-               društev za posamezna strokovna področja delovanja ZZDS. So oblika interesnega in ne
-               lokalnega ali regionalnega povezovanja. Članstvo v njih je pogojeno s članstvom v
-               lokalnem ali regionalnem društvu. Imajo lasten pravilnik in organe. Z njihovo
-               ustanovitvijo mora soglašati IO. Njihov predsednik oziroma predstavnik je član IO
-               ZZDS.</p>
-            <p xml:id="p-68">
-               <hi rend="bold">15. člen</hi>
-            </p>
-            <p xml:id="p-69">Nadzorni odbor sestavljajo trije člani, ki izvolijo svojega
-               predsednika.</p>
-            <p xml:id="p-70">Nadzorni odbor pregleduje in spremlja poslovanje ZZDS ter o njem poroča
-               na rednih občnih zborih.</p>
-            <p xml:id="p-71">
-               <hi rend="bold">16. člen</hi>
-            </p>
-            <p xml:id="p-72">Častno razsodišče sestavljajo trije člani, ki izvolijo svojega
-               predsednika.</p>
-            <p xml:id="p-73">Častno razsodišče razsoja o sporih, ki nastopijo v društvenem
-               življenju, ki utegnejo huje prizadeti interese in ugled ZZDS v skladu s pravili
-               ZZDS.</p>
-            <p xml:id="p-74">Častno razsodišče vodi postopek in izreka disciplinske ukrepe v skladu
-               z disciplinskim pravilnikom.</p>
-            <p xml:id="p-75">Disciplinske kršitve, ki jih obravnava častno razsodišče, so
-               naslednje:</p>
-            <list rend="bulleted" xml:id="list-10">
-               <item>kršitve določb statuta,</item>
-               <item>nevestno in lahkomiselno sprejemanje in izvrševanje sprejetih zadolžitev in
-                  funkcij v društvu,</item>
-               <item>neizvrševanje sklepov organov društva,</item>
-               <item>dejanja, ki kakorkoli škodujejo ugledu društva.</item>
-            </list>
-            <p xml:id="p-76">Disciplinski ukrepi, ki jih po izvedenem postopku v skladu z
-               disciplinskim pravilnikom izreče častno razsodišče so:</p>
-            <list rend="bulleted" xml:id="list-11">
-               <item>opomin,</item>
-               <item>javni opomin,</item>
-               <item>izključitev.</item>
-            </list>
-            <p xml:id="p-77">
-               <hi rend="bold">17. člen</hi>
-            </p>
-            <p xml:id="p-78">ZZDS pridobiva sredstva za svoje delovanje iz članarine, dotacij,
-               subvencij, daril, dohodkov iz naslova materialnih pravic društva ter namenskih
-               sredstev, pridobljenih s pogodbami. O porabi finančnih sredstev in upravljanju s
-               premičninami ZZDS odloča predsedstvo ZZDS, ki o tem obvešča IO.</p>
-            <p xml:id="p-79">IO ima v skladu s finančnimi možnostmi za vodenje finančnih zadev
-               pravico redno ali honorarno zaposliti strokovnega delavca. Ob povečanem ali izjemnem
-               obsegu del lahko začasno zaposli potrebnega strokovnjaka.</p>
-            <p xml:id="p-80">Finančne in materialne listine podpisujeta predsednik in tajnik
-               društva.</p>
-            <p xml:id="p-81">Finančno in materialno poslovanje mora biti v skladu z veljavnimi
-               predpisi s tega področja.</p>
-            <p xml:id="p-82">Blagajnik vodi finančno in materialno poslovanje v skladu s pravilnikom
-               o finančno materialnem poslovanju, v katerem društvo tudi določi način vodenja in
-               izkazovanja podatkov o finančno materialnem poslovanju društva, ki mora biti v skladu
-               z računovodskimi standardi za društva.</p>
-            <p xml:id="p-83">Društvo ima svoj žiro račun pri Agenciji Republike Slovenije za
-               plačilni promet.</p>
-            <p xml:id="p-84">
-               <hi rend="bold">18. člen</hi>
-            </p>
-            <p xml:id="p-85">ZZDS podeljuje na podlagi javnega razpisa vsaki dve leti, praviloma v
-               letu rednega zborovanja slovenskih zgodovinarjev, za najboljšo monografijo, razpravo
-               ali esej, objavljen v preteklih dveh koledarskih letih denarno nagrado in priznanja
-               ZZDS, ki se imenuje Klio. Nagrajeno delo izbere petčlanska komisija, ki jo imenuje IO
-               ZZDS. Komisija ima lasten pravilnik, ki ga potrdi IO ZZDS.</p>
-            <p xml:id="p-86">
-               <hi rend="bold">19. člen</hi>
-            </p>
-            <p xml:id="p-87">ZZDS preneha delovati s sklepom občnega zbora, sprejetim z
-               dvotretjinsko večino, ali če število lokalnih in regionalnih društev znaša manj kot
-               dva.</p>
-            <p xml:id="p-88">Če ZZDS preneha delovati, se njegova sredstva in premoženje prenesejo
-               na člane, če občni zbor ne odloči drugače.</p>
-            <p xml:id="p-89">PREHODNE DOLOČBE</p>
-            <p xml:id="p-90">
-               <hi rend="bold">20. člen</hi>
-            </p>
-            <p xml:id="p-91">Ta statut stopi v veljavo, ko ga sprejmeta dve tretjini lokalnih in
-               regionalnih društev in ga potrdi pristojni državni organ. S tem preneha veljati
-               Statut Zveze zgodovinskih društev Slovenije, sprejet 1. oktobra 1980.</p>
-            <p xml:id="p-92">Delo ZZDS in lokalnih ter regionalnih društev se mora uskladiti s tem
-               statutom v šestih mesecih od njegove uveljavitve.</p>
-            <p xml:id="p-93">
-               <hi rend="bold">Predsednik ZZDS</hi>
-            </p>
-            <p xml:id="p-94">
-               <hi rend="bold">dr. Stane Granda</hi>
-            </p>
+         <div type="preface" xml:id="akti-drustva">
+            <head>Akti društva</head>
+            <div xml:id="statut-drustva">
+               <head xml:id="head-9">Statut društva</head>
+               <p xml:id="p-21">
+                  <hi rend="bold">1. člen</hi>
+               </p>
+               <p xml:id="p-22">Društvo se imenuje Zveza zgodovinskih društev Slovenije ( v
+                  nadaljnjem besedilu: ZZDS). ZZDS je zveza lokalnih in regionalnih društev. Območje
+                  delovanja ZZDS je Republika Slovenija. Kot pridruženi, vendar enakopravni člani so
+                  tudi pripadniki sorodnih združenj v Italiji, Avstriji in na Madžarskem. Društvo je
+                  strokovno. Njegovo delo je javno. Sedež društva je na Oddelku za zgodovino
+                  Filozofske fakultete v Ljubljani, Aškerčeva 2.</p>
+               <p xml:id="p-23">
+                  <hi rend="bold">2. člen</hi>
+               </p>
+               <p xml:id="p-24">Pečat ZZDS je okrogel z besedilom: Zveza zgodovinskih društev
+                  Slovenije. Pod obodom v sredini ima stilizirano peščeno uro.</p>
+               <p xml:id="p-25">
+                  <hi rend="bold">3. člen</hi>
+               </p>
+               <p xml:id="p-26">ZZDS je pravna oseba, ki jo zastopa in zanjo podpisuje predsednik
+                  društva, v njegovi odsotnosti pa podpredsednik ali pooblaščeni član izvršilnega
+                  odbora.</p>
+               <p xml:id="p-27">Delo društva in njegovih organov je javno.</p>
+               <p xml:id="p-28">Svoje člane obvešča društvo:</p>
+               <list rend="bulleted" xml:id="list-3">
+                  <item>s pravico vpogleda članov v zapisnike organov društva,</item>
+                  <item>preko društvenega glasila,</item>
+                  <item>preko sredstev javnega obveščanja.</item>
+               </list>
+               <p xml:id="p-29">Širšo javnost obvešča društvo o svojem delu tako, da so seje organov
+                  društva javne, da organizira okrogle mize, tiskovne konference, na svoje seje vabi
+                  predstavnike zainteresiranih organov, ustanov, organizacij ter predstavnike
+                  sredstev javnega obveščanja.</p>
+               <p xml:id="p-30">Za zagotovitev javnosti dela in dajanje točnih informacij o delu
+                  društva je odgovoren predsednik društva.</p>
+               <p xml:id="p-31">
+                  <hi rend="bold">4. člen</hi>
+               </p>
+               <p xml:id="p-32">Namen ZZDS je:</p>
+               <list rend="bulleted" xml:id="list-4">
+                  <item>povezovati delo zgodovinskih, muzejskih, arhivskih in sorodnih
+                     društev;</item>
+                  <item>gojiti in spodbujati zgodovinsko zavest;</item>
+                  <item>pospeševati znanstveno in raziskovalno delo na področju zgodovine v
+                     Sloveniji in po svetu;</item>
+                  <item>sodelovati pri oblikovanju in izvajanju pedagoškega dela na področju
+                     zgodovine in sorodnih ved;</item>
+                  <item>dajati pobude za zbiranje in ohranjanje kulturne dediščine.</item>
+               </list>
+               <p xml:id="p-33">Pri svojem delu se ZZDS povezuje s sorodnimi društvi v Sloveniji in
+                  po svetu.</p>
+               <p xml:id="p-34">
+                  <hi rend="bold">5. člen</hi>
+               </p>
+               <p xml:id="p-35">Dejavnost ZZDS je:</p>
+               <list rend="bulleted" xml:id="list-5">
+                  <item>v skladu z 59. členom Ustave RS zavzemanje za svobodo in avtonomijo
+                     znanstvenega in strokovnega ter pedagoškega dela ;</item>
+                  <item>skrb za varstvo pravic, ki izvirajo iz znanstveno-raziskovalne dejavnosti
+                     ;</item>
+                  <item>prirejanje zborovanj, znanstvenih in strokovnih predavanj, izletov, razstav
+                     in podobnih prireditev ;</item>
+                  <item>izdajanje osrednjega glasila Zgodovinski časopis, revije Kronika in drugih
+                     publikacij.</item>
+               </list>
+               <p xml:id="p-36">Uredništva periodičnih in izrednih publikacij delujejo strokovno in
+                  finančno avtonomno. Imenuje jih izvršilni odbor ZZDS ;</p>
+               <list rend="bulleted" xml:id="list-6">
+                  <item>dajanje pobud in strokovnih mnenj glede izobraževanja in raziskovanja
+                     zgodovine ;</item>
+                  <item>skrb za knjižnico in za zamenjavo publikacij.</item>
+               </list>
+               <p xml:id="p-37">Za izpolnjevanje navedenih namenov in nalog si bo ZZDS prizadevalo
+                  pridobiti status zveze, ki dela v javnem interesu. Za delovanje v javnem interesu
+                  si ZZDS pridobi odločbo pristojnega upravnega organa.</p>
+               <p xml:id="p-38">
+                  <hi rend="bold">6. člen</hi>
+               </p>
+               <p xml:id="p-39">ZZDS ima redno in častno članstvo.</p>
+               <p xml:id="p-40">Redni člani so lokalna in regionalna društva in zamejska združenja,
+                  ki soglašajo z načeli delovanja ZZDS in se ravnajo po njegovih pravilih. Kot
+                  lokalna in regionalna društva se lahko sprejmejo tista, katerih dejavnost je v
+                  skladu s 4. členom.</p>
+               <p xml:id="p-41">Častni član ZZDS postane na podlagi predloga lokalnega ali
+                  regionalnega društva oseba, ki se je odlikovala z delom v društvu ali ima posebne
+                  zasluge za razvoj zgodovinske znanosti.</p>
+               <p xml:id="p-42">Njihovo članstvo preneha s prenehanjem delovanja ali izstopom iz
+                  ZZDS. Izključitev je mogoča v primeru grobe kršitve pravil ZZDS ali zakona in mora
+                  z njim soglašati večina lokalnih in regionalnih društev.</p>
+               <p xml:id="p-43">
+                  <hi rend="bold">7. člen</hi>
+               </p>
+               <p xml:id="p-44">Posameznik postane član ZZDS z vstopom v lokalno ali regionalno
+                  društvo.</p>
+               <p xml:id="p-45">Lokalna in regionalna društva postanejo člani ZZDS s podpisom
+                  pristopne izjave.</p>
+               <p xml:id="p-46">
+                  <hi rend="bold">8. člen</hi>
+               </p>
+               <p xml:id="p-47">Organi društva so:</p>
+               <list rend="bulleted" xml:id="list-7">
+                  <item>občni zbor;</item>
+                  <item>izvršilni odbor (v nadaljnjem besedilu IO);</item>
+                  <item>predsedstvo IO;</item>
+                  <item>odbori sekcij;</item>
+                  <item>nadzorni odbor;</item>
+                  <item>častno razsodišče.</item>
+               </list>
+               <p xml:id="p-48">Organi društva so voljeni za dobo dveh let.</p>
+               <p xml:id="p-49">
+                  <hi rend="bold">9. člen</hi>
+               </p>
+               <p xml:id="p-50">Občni zbor je sklepčen, če so navzoči predstavniki večine lokalnih
+                  in regionalnih društev in zamejskih združenj. Če ni navzoča polovica vseh
+                  predstavnikov, je občni zbor sklepčen pol ure po uri sklica ob udeležbi prisotnih
+                  društev.</p>
+               <p xml:id="p-51">Glasovanje je praviloma tajno, razen če se ne sklene drugače.</p>
+               <p xml:id="p-52">
+                  <hi rend="bold">10. člen</hi>
+               </p>
+               <p xml:id="p-53">Občni zbor ZZDS se sestane vsaki dve leti in:</p>
+               <list rend="bulleted" xml:id="list-8">
+                  <item>sklepa o sprejemu statuta ZZDS, drugih pravil ZZDS in o programu dela
+                     ZZDS;</item>
+                  <item>sklepa o prošnjah in pritožbah;</item>
+                  <item>sprejema poročila o delu in poslovanju organov ZZDS;</item>
+                  <item>voli predsednika ZZDS in ostale člane IO, nadzornega odbora in častnega
+                     razsodišča</item>
+                  <item>sprejema finančni račun za dobo dveh let in zaključno poročilo</item>
+                  <item>dokončno odloča o izključitvi člana.</item>
+               </list>
+               <p xml:id="p-54">
+                  <hi rend="bold">11. člen</hi>
+               </p>
+               <p xml:id="p-55">Izredni občni zbor skliče IO. Sklicati ga mora na zahtevo vsaj dveh
+                  lokalnih ali regionalnih društev ali nadzornega odbora v roku enega meseca po
+                  prejemu pismene zahteve. Če tega ne stori, ga lahko skličejo člani, ki so sklic
+                  zahtevali.</p>
+               <p xml:id="p-56">Izredni občni zbor lahko sklepa le o zadevah, zaradi katerih je bil
+                  sklican.</p>
+               <p xml:id="p-57">
+                  <hi rend="bold">12. člen</hi>
+               </p>
+               <p xml:id="p-58">IO sestavljajo predsedstvo ZZDS, predstavniki lokalnih in
+                  regionalnih društev, predsedniki sekcij in uredniki glasil ZZDS.</p>
+               <p xml:id="p-59">IO se sestane vsaj enkrat letno in:</p>
+               <list rend="bulleted" xml:id="list-9">
+                  <item>potrjuje sprejem novih lokalnih in regionalnih društev;</item>
+                  <item>sprejema letna poročila predsedstva, urednikov glasil in drugih organov ZZDS
+                     ter poročilo o finančnem poslovanju;</item>
+                  <item>določa višino članarine;</item>
+                  <item>sprejema pravila o izdajanju glasil ZZDS in imenuje člane organov glasil, po
+                     določilih zakona o tisku;</item>
+                  <item>podeljuje priznanja in častno članstvo ZZDS.</item>
+               </list>
+               <p xml:id="p-60">Na seje IO ZZDS je redno vabljen predsednik nadzornega odbora.</p>
+               <p xml:id="p-61">
+                  <hi rend="bold">13. člen</hi>
+               </p>
+               <p xml:id="p-62">Predsedstvo sestavljajo predsednik, podpredsednika, tajnik in
+                  predsednik nadzornega odbora.</p>
+               <p xml:id="p-63">Predsedstvo lahko po potrebi enemu izmed svojih članov poveri skrb
+                  za finančno vprašanje ZZDS.</p>
+               <p xml:id="p-64">Sklepi na sejah predsedstva so sprejeti z večino. Če je glasovanje
+                  na seji predsedstva neodločeno, prevlada glas predsednika.</p>
+               <p xml:id="p-65">Predsedstvo vodi tekoče poslovanje ZZDS, sklicuje občni zbor in po
+                  potrebi ustanavlja začasne komisije. Za svoje delo odgovarja IO.</p>
+               <p xml:id="p-66">
+                  <hi rend="bold">14. člen</hi>
+               </p>
+               <p xml:id="p-67">Sekcije ZZDS ustanovi IO na predlog članov lokalnih in regionalnih
+                  društev za posamezna strokovna področja delovanja ZZDS. So oblika interesnega in
+                  ne lokalnega ali regionalnega povezovanja. Članstvo v njih je pogojeno s članstvom
+                  v lokalnem ali regionalnem društvu. Imajo lasten pravilnik in organe. Z njihovo
+                  ustanovitvijo mora soglašati IO. Njihov predsednik oziroma predstavnik je član IO
+                  ZZDS.</p>
+               <p xml:id="p-68">
+                  <hi rend="bold">15. člen</hi>
+               </p>
+               <p xml:id="p-69">Nadzorni odbor sestavljajo trije člani, ki izvolijo svojega
+                  predsednika.</p>
+               <p xml:id="p-70">Nadzorni odbor pregleduje in spremlja poslovanje ZZDS ter o njem
+                  poroča na rednih občnih zborih.</p>
+               <p xml:id="p-71">
+                  <hi rend="bold">16. člen</hi>
+               </p>
+               <p xml:id="p-72">Častno razsodišče sestavljajo trije člani, ki izvolijo svojega
+                  predsednika.</p>
+               <p xml:id="p-73">Častno razsodišče razsoja o sporih, ki nastopijo v društvenem
+                  življenju, ki utegnejo huje prizadeti interese in ugled ZZDS v skladu s pravili
+                  ZZDS.</p>
+               <p xml:id="p-74">Častno razsodišče vodi postopek in izreka disciplinske ukrepe v
+                  skladu z disciplinskim pravilnikom.</p>
+               <p xml:id="p-75">Disciplinske kršitve, ki jih obravnava častno razsodišče, so
+                  naslednje:</p>
+               <list rend="bulleted" xml:id="list-10">
+                  <item>kršitve določb statuta,</item>
+                  <item>nevestno in lahkomiselno sprejemanje in izvrševanje sprejetih zadolžitev in
+                     funkcij v društvu,</item>
+                  <item>neizvrševanje sklepov organov društva,</item>
+                  <item>dejanja, ki kakorkoli škodujejo ugledu društva.</item>
+               </list>
+               <p xml:id="p-76">Disciplinski ukrepi, ki jih po izvedenem postopku v skladu z
+                  disciplinskim pravilnikom izreče častno razsodišče so:</p>
+               <list rend="bulleted" xml:id="list-11">
+                  <item>opomin,</item>
+                  <item>javni opomin,</item>
+                  <item>izključitev.</item>
+               </list>
+               <p xml:id="p-77">
+                  <hi rend="bold">17. člen</hi>
+               </p>
+               <p xml:id="p-78">ZZDS pridobiva sredstva za svoje delovanje iz članarine, dotacij,
+                  subvencij, daril, dohodkov iz naslova materialnih pravic društva ter namenskih
+                  sredstev, pridobljenih s pogodbami. O porabi finančnih sredstev in upravljanju s
+                  premičninami ZZDS odloča predsedstvo ZZDS, ki o tem obvešča IO.</p>
+               <p xml:id="p-79">IO ima v skladu s finančnimi možnostmi za vodenje finančnih zadev
+                  pravico redno ali honorarno zaposliti strokovnega delavca. Ob povečanem ali
+                  izjemnem obsegu del lahko začasno zaposli potrebnega strokovnjaka.</p>
+               <p xml:id="p-80">Finančne in materialne listine podpisujeta predsednik in tajnik
+                  društva.</p>
+               <p xml:id="p-81">Finančno in materialno poslovanje mora biti v skladu z veljavnimi
+                  predpisi s tega področja.</p>
+               <p xml:id="p-82">Blagajnik vodi finančno in materialno poslovanje v skladu s
+                  pravilnikom o finančno materialnem poslovanju, v katerem društvo tudi določi način
+                  vodenja in izkazovanja podatkov o finančno materialnem poslovanju društva, ki mora
+                  biti v skladu z računovodskimi standardi za društva.</p>
+               <p xml:id="p-83">Društvo ima svoj žiro račun pri Agenciji Republike Slovenije za
+                  plačilni promet.</p>
+               <p xml:id="p-84">
+                  <hi rend="bold">18. člen</hi>
+               </p>
+               <p xml:id="p-85">ZZDS podeljuje na podlagi javnega razpisa vsaki dve leti, praviloma
+                  v letu rednega zborovanja slovenskih zgodovinarjev, za najboljšo monografijo,
+                  razpravo ali esej, objavljen v preteklih dveh koledarskih letih denarno nagrado in
+                  priznanja ZZDS, ki se imenuje Klio. Nagrajeno delo izbere petčlanska komisija, ki
+                  jo imenuje IO ZZDS. Komisija ima lasten pravilnik, ki ga potrdi IO ZZDS.</p>
+               <p xml:id="p-86">
+                  <hi rend="bold">19. člen</hi>
+               </p>
+               <p xml:id="p-87">ZZDS preneha delovati s sklepom občnega zbora, sprejetim z
+                  dvotretjinsko večino, ali če število lokalnih in regionalnih društev znaša manj
+                  kot dva.</p>
+               <p xml:id="p-88">Če ZZDS preneha delovati, se njegova sredstva in premoženje
+                  prenesejo na člane, če občni zbor ne odloči drugače.</p>
+               <p xml:id="p-89">PREHODNE DOLOČBE</p>
+               <p xml:id="p-90">
+                  <hi rend="bold">20. člen</hi>
+               </p>
+               <p xml:id="p-91">Ta statut stopi v veljavo, ko ga sprejmeta dve tretjini lokalnih in
+                  regionalnih društev in ga potrdi pristojni državni organ. S tem preneha veljati
+                  Statut Zveze zgodovinskih društev Slovenije, sprejet 1. oktobra 1980.</p>
+               <p xml:id="p-92">Delo ZZDS in lokalnih ter regionalnih društev se mora uskladiti s
+                  tem statutom v šestih mesecih od njegove uveljavitve.</p>
+               <p xml:id="p-93">
+                  <hi rend="bold">Predsednik ZZDS</hi>
+               </p>
+               <p xml:id="p-94">
+                  <hi rend="bold">dr. Stane Granda</hi>
+               </p>
+            </div>
+            <div xml:id="pravilnik-Klio">
+               <head>Pravilnik o podeljevanju Nagrade Klio za raziskovalno delo v zgodovinopisju in
+                  Priznanja Ervina Dolenca za znanstveni prvenec</head>
+               <p><hi rend="bold">1. člen</hi></p>
+               <p>Zveza zgodovinskih društev Slovenije (ZZDS) podeljuje nagrado Klio (v nadaljevanju
+                  nagrada) za raziskovalno delo v zgodovinopisju in Priznanje Ervina Dolenca (v
+                  nadaljevanju priznanje) za znanstveni prvenec s področja zgodovinopisja.</p>
+               <p>Besedilo pravilnika je napisano v moški slovnični obliki in velja za oba
+                  spola.</p>
+               <p><hi rend="bold">2. člen</hi></p>
+               <p>ZZDS podeli nagrado oz. priznanje posameznim raziskovalcem za določeno
+                  zgodovinopisno delo.</p>
+               <p><hi rend="bold">3. člen</hi></p>
+               <p>ZZDS podeli nagrado in priznanje praviloma vsaki dve leti, za najboljšo znanstveno
+                  monografijo, razpravo ali esej, ki so bili objavljeni v preteklih dveh koledarskih
+                  letih od zadnje podelitve.</p>
+               <p><hi rend="bold">4. člen</hi></p>
+               <p>ZZDS praviloma na dve leti podeli eno nagrado in eno priznanje. V primeru, če bi
+                  si dve deli po kakovosti in prodornosti tako konkurirali, da bi bila podelitev
+                  nagrade ali priznanja enemu za drugega krivična, si nagrado ali priznanje lahko
+                  delita obe.</p>
+               <p><hi rend="bold">5. člen</hi></p>
+               <p>Nagrada in priznanje sta v obliki diplome in morebitne denarne nagrade,
+                  upoštevajoč finančne zmožnosti ZZDS.</p>
+               <p><hi rend="bold">6. člen</hi></p>
+               <p>Komisijo za podelitev nagrade in priznanja imenuje izvršni odbor ZZDS vsaki dve
+                  leti, z možnostjo ponovitve.</p>
+               <p><hi rend="bold">7. člen</hi></p>
+               <p>Komisijo sestavlja 5 članov, ki po svoji strokovni specializaciji skupaj pokrivajo
+                  čim širši časovni in tematski sklop možnih zgodovinskih raziskav. Če je taka
+                  izbira mogoča, naj po en član komisije dobro pozna stanje raziskav za srednji vek
+                  in antiko, eden za novi vek od renesanse do razsvetljenstva, eden za devetnajsto
+                  in eden za dvajseto stoletje, eden pa naj po možnosti s svojim poznavanjem več
+                  časovnih obdobij oziroma področij raziskav (gospodarska, socialna, politična,
+                  kulturna zgodovina...) uravnoteži sestavo komisije tako, da kakšno področje
+                  raziskav ne bi bilo prezrto. Komisija mora biti mešana po spolu in institucijah,
+                  na katerih so člani zaposleni.</p>
+               <p><hi rend="bold">8. člen</hi></p>
+               <p>V primeru, da večina članov komisije odloči, da je v ožji konkurenci za nagrado
+                  tudi delo katerega od članov komisije, se je ta dolžan izločiti iz obravnave in
+                  odločanja . Iz obravnave in odločanja se je dolžan izločiti tudi trenutni ali
+                  nekdanji (vsaj pet let) mentor kandidata ali kandidatke za priznanje. Iz obravnave
+                  in odločanja se je dolžan izločiti tudi ožji družinski član kandidatov za nagrado
+                  in priznanje. Izvršni odbor ZZDS mora po prejetju obvestila od komisije v
+                  najkrajšem času, predvidoma v enem mesecu, imenovati novega, uravnoteženi sestavi
+                  komisije (po 7. členu) ustreznega člana. Enako ravnata komisija in izvršni odbor
+                  ZZDS, če je kateri od članov komisije zadržan iz kakšnega drugega vzroka.</p>
+               <p><hi rend="bold">9. člen</hi></p>
+               <p>Za nagrado in priznanje konkurirajo dela na podlagi javnega razpisa ZZDS. Javni
+                  razpis z razpisnimi pogoji objavi komisija za podelitev nagrade in priznanja.</p>
+               <p>Za nagrado in priznanje konkurirajo (1) raziskovalna dela temeljnega pomena za
+                  slovensko zgodovinopisje, objavljena v slovenščini, (2) raziskovalna dela o
+                  slovenski zgodovini, ki jih v tujih jezikih objavijo bodisi slovenski bodisi tuji
+                  zgodovinarji in (3) raziskovalna dela slovenskih zgodovinarjev, ki raziskujejo
+                  druge zgodovinopisne teme, ne glede na jezik objave. Praviloma se upoštevajo dela
+                  z letnicami izida od začetka koledarskega leta, ki jih jen zajela zadnja podelitev
+                  nagrade in priznanja do začetka koledarskega leta aktualne podelitve. Raziskovalna
+                  dela lahko za nagrado in priznanje predlagajo posamezniki, regionalna društva,
+                  vključena v ZZDS, in posamezni zavodi.</p>
+               <p><hi rend="bold">10. člen</hi></p>
+               <p>Komisijo na prvo sejo skliče izvršni odbor ZZDS oziroma njen predsednik.
+                  Predsednika komisije si izvoli komisija sama. Komisija se mora prvič sestati vsaj
+                  6 mesecev pred predvideno podelitvijo in končati z evidentiranjem možnih del za
+                  nagrado in priznanje 4 mesece pred predvideno podelitvijo.</p>
+               <p><hi rend="bold">11. člen</hi></p>
+               <p>Glavni kriteriji pri odločanju komisije o nagradi in priznanju so poleg
+                  verodostojnosti, korektnosti in analitične prodornosti raziskave tudi metodološka
+                  inovativnost in potrebnost raziskave v kontekstu slabo raziskanih problemov stroke
+                  ter njen metodološki in vsebinski doprinos v mednarodno raziskovalno okolje.</p>
+               <p><hi rend="bold">12. člen</hi></p>
+               <p>Komisija se odloči o nagradi in priznanju soglasno, če ne, o nagradi in priznanju
+                  odloči večina vseh članov komisije vsaj dva tedna pred predvideno podelitvijo.</p>
+               <p><hi rend="bold">13. člen</hi></p>
+               <p>Komisija podelitev nagrade in priznanja pisno kratko utemelji, njen predsednik pa
+                  to utemeljitev na slovesni razglasitvi in podelitvi prebere.</p>
+               <p><hi rend="bold">14. člen</hi></p>
+               <p>O sejah komisija vodi zapisnike. V zapisnikih morajo biti navedeni vsi predlogi za
+                  nagrado in priznanje ter glavni argumenti za ali proti določenemu predlogu. Na ta
+                  način mora biti razvidna selekcija del do končno nagrajenega dela. ZZDS hrani
+                  arhivsko gradivo komisije z vsemi predlogi ter vodi knjigo nagrad in priznanj.</p>
+               <p><hi rend="bold">15. člen</hi></p>
+               <p>ZZDS podeljuje Priznanje Ervina Dolenca za znanstveni prvenec. Zgornja starostna
+                  meja prejemnika priznanja je 35 let, pri čemer se ta meja podaljša za čas
+                  odsotnosti zaradi izrabe dopusta iz naslova zavarovanja za starševsko varstvo,
+                  bolezni ali poškodbe, ki traja najmanj eno leto.</p>
+               <p><hi rend="bold">16. člen</hi></p>
+               <p>Nagrada Klio in Priznanje Ervina Dolenca za najboljši prvenec se lahko podeli isti
+                  osebi.</p>
+               <p><hi rend="bold">17. člen</hi></p>
+               <p>Ta pravilnik začne veljati, ko ga sprejme občni zbor ZZDS.</p>
+               <p>Ljubljana, 12. 3. 2021 </p>
+               <p>predsednica Zveze zgodovinskih društev Slovenije</p>
+               <p>dr. Dragica Čeč</p>
+            </div>
          </div>
          <div type="preface" xml:id="predsedniki-drustva">
             <head xml:id="head-10">Predsedniki društva</head>
@@ -746,8 +844,7 @@
                <head xml:id="head-18">Dr. Milica Kacin Wohinz</head>
                <figure xml:id="figure-1">
                   <head>Častni član Dr. Milica Kacin Wohinz</head>
-                  <graphic
-                     url="wp-legacy/uploads/2015/08/castni-clan-Dr-Milica-Kacin-Wohinz-150x150.jpg"
+                  <graphic url="wp-legacy/uploads/2015/08/castni-clan-Dr-Milica-Kacin-Wohinz.jpg"
                      width="150px" height="150px"/>
                </figure>
                <p xml:id="p-95">Rodila se je 12. oktobra 1930 na Reki pri Cerknem. V otroških in
@@ -1506,13 +1603,14 @@
       <body>
          <div type="chapter" xml:id="post-2021-05-26">
             <docDate when="2021-05-26" xml:id="zzds3-docDate-1"/>
-            <head xml:id="post-2021-05-26-head1">Vabilo: Razglasitev prejemnikov nagrade KLIO in priznanja Ervina Dolenca, 26. 5. 2021 ob
-               14.00 uri</head>
+            <head xml:id="post-2021-05-26-head1">Vabilo: Razglasitev prejemnikov nagrade KLIO in
+               priznanja Ervina Dolenca, 26. 5. 2021 ob 14.00 uri</head>
             <p xml:id="post-2021-05-26-p1">Spoštovani,</p>
-            <p xml:id="post-2021-05-26-p2">v sredo, 26. 5. 2021 ob 14:00 uri, bodo prek platforme ZOOM razglašeni prejemniki
-               nagrade KLIO, nagrade za najboljšo zgodovinsko študijo, za leti 2018 in 2019, in
-               dobitnik priznanja Ervina Dolenca za najboljši prvenec s področja zgodovinopisja. 
-               <list><head>Nominiranci za nagrado KLIO so (po abecednem vrstnem redu):</head>            
+            <p xml:id="post-2021-05-26-p2">v sredo, 26. 5. 2021 ob 14:00 uri, bodo prek platforme
+               ZOOM razglašeni prejemniki nagrade KLIO, nagrade za najboljšo zgodovinsko študijo, za
+               leti 2018 in 2019, in dobitnik priznanja Ervina Dolenca za najboljši prvenec s
+               področja zgodovinopisja. <list>
+                  <head>Nominiranci za nagrado KLIO so (po abecednem vrstnem redu):</head>
                   <item>Aleš Gabrič: <hi rend="bold">V senci politike: opozicija komunistični
                         oblasti v Sloveniji</hi>. Ljubljana 2019.</item>
                   <item>Damijan Guštin, Vladimir Prebilič, Uroš Svete: <hi rend="bold">Koroški boj
@@ -1523,14 +1621,16 @@
                         nastanka do danes</hi>. Ljubljana 2018.</item>
                   <item>Marta Rendla: <hi rend="bold">»Kam ploveš standard?« Življenjska raven in
                         socializem</hi>. Ljubljana 2018.</item>
-                  <item>Jure Ramšak: <hi rend="bold">(Samo)upravljanje intelekta. Družbena kritika
-                        v poznosocialistični Sloveniji</hi>. Ljubljana 2019.</item>
-                  <item>Petra Svoljšak, Gregor Antoličič: <hi rend="bold">Leta strahote. Slovenci
-                        in prva svetovna vojna</hi>. Ljubljana 2018.</item>
+                  <item>Jure Ramšak: <hi rend="bold">(Samo)upravljanje intelekta. Družbena kritika v
+                        poznosocialistični Sloveniji</hi>. Ljubljana 2019.</item>
+                  <item>Petra Svoljšak, Gregor Antoličič: <hi rend="bold">Leta strahote. Slovenci in
+                        prva svetovna vojna</hi>. Ljubljana 2018.</item>
                </list></p>
             <p xml:id="post-2021-05-26-p3">Dogodek bo mogoče spremljati prek sledeče povezave:<lb/>
-               <ref target="https://uni-lj-si.zoom.us/j/97651233177">https://uni-lj-si.zoom.us/j/97651233177</ref><lb/>Meeting ID: 976 5123 3177.</p>
-            <p xml:id="post-2021-05-26-p4">Vljudno vabljeni!<lb/>Zveza zgodovinskih društev Slovenije</p>
+               <ref target="https://uni-lj-si.zoom.us/j/97651233177"
+                  >https://uni-lj-si.zoom.us/j/97651233177</ref><lb/>Meeting ID: 976 5123 3177.</p>
+            <p xml:id="post-2021-05-26-p4">Vljudno vabljeni!<lb/>Zveza zgodovinskih društev
+               Slovenije</p>
          </div>
          <div type="chaper" xml:id="post-2019-12-02">
             <docDate when="2019-12-02" xml:id="zzds2-docDate-1"/>
@@ -4332,6 +4432,35 @@
             <p xml:id="p-523">
                <hi rend="bold">Prejemniki nagrade Klio</hi>
             </p>
+            <div xml:id="klio-2019-2020">
+               <head>Nagrada Klio 2019-2020</head>
+               <figure xml:id="figure-134">
+                  <graphic url="wp-legacy/uploads/2015/08/letaStrahote.jpg" width="263px"
+                     height="300px"/>
+               </figure>
+               <figure xml:id="figure-135">
+                  <graphic url="wp-legacy/uploads/2015/08/Samoupravljanje_intelekta.jpg"
+                     width="199px" height="300px"/>
+               </figure>
+               <p>Prejemniki dvanajste nagrade Klio za najboljše zgodovinopisno delo so:</p>
+               <p>dr. <hi rend="bold">Petra Svoljšak</hi> in <hi rend="bold">dr. Gregor
+                     Antoličič</hi>: <hi rend="italic">Leta strahote. Slovenci in prva svetovna
+                     vojna</hi>. Ljubljana: Mladinska knjiga, 2018.</p>
+               <p>dr. <hi rend="bold">Jure Ramšak</hi>: <hi rend="italic">(Samo)upravljanje
+                     intelekta. Družbena kritika v poznosocialistični Sloveniji</hi>. Ljubljana:
+                  Založba Modrijan, 2019.</p>
+            </div>
+            <div xml:id="klio-2017-2018">
+               <head>Nagrada KLIO 2017-2018</head>
+               <figure xml:id="figure-136">
+                  <graphic url="wp-legacy/uploads/2015/08/zgodovina_morale_2.jpg" width="211px"
+                     height="300px"/>
+               </figure>
+               <p>Prejemnik enajste nagrade Klio za najboljše zgodovinopisno delo je znanstveni
+                  svetnik dr. <hi rend="bold">Dušan Kos</hi>, <hi rend="italic">Zgodovina morale. 2,
+                     Ljubezenske strasti, prevare in nasilje ter njihovo obravnavanje na Slovenskem
+                     med srednjim vekom in meščansko dobo</hi>. Ljubljana: Založba ZRC, 2016.</p>
+            </div>
             <div xml:id="klio-2016">
                <head xml:id="head-118">Nagrada KLIO 2016</head>
                <figure xml:id="figure-137">
@@ -4339,8 +4468,8 @@
                      width="213px" height="264px"/>
                </figure>
                <p xml:id="p-524">Prejemnik desete nagrade Klio za najboljše zgodovinopisno delo v
-                  letu 2015 je<hi rend="bold"> red. prof. dr. Božo Repe</hi> za monografijo<hi
-                     rend="bold"> S puško in knjigo: narodnoosvobodilni boj slovenskega naroda
+                  letu 2015 je <hi rend="bold">red. prof. dr. Božo Repe</hi> za monografijo <hi
+                     rend="bold">S puško in knjigo: narodnoosvobodilni boj slovenskega naroda
                      1941-1945</hi>. Nagrado je prejel na 38. zborovanju slovenskih zgodovinarjev na
                   slovesni prireditvi na Ravnah na Koroškem.</p>
             </div>
@@ -4373,7 +4502,7 @@
                   Razpoznavanja = Recognitiones, 16).</p>
             </div>
             <div xml:id="klio-2012">
-               <head xml:id="head-123">Nagrada KLIO 2012</head>
+               <head xml:id="head-123">Nagrada KLIO 2011-2012</head>
                <figure xml:id="figure-140">
                   <graphic url="wp-legacy/uploads/2015/08/Bojan_Godesa_Cas_Odlicitev.jpg"
                      width="196px" height="300px"/>
@@ -4384,7 +4513,7 @@
                   knjiga, 2011.</p>
             </div>
             <div xml:id="klio-2010">
-               <head xml:id="head-125">Nagrada KLIO 2010</head>
+               <head xml:id="head-125">Nagrada KLIO 2009-2010</head>
                <figure xml:id="figure-141">
                   <graphic url="wp-legacy/uploads/2015/08/Andrej_Studen_Pijane_zverine.jpg"
                      width="203px" height="300px"/>
@@ -4396,7 +4525,7 @@
                   9).</p>
             </div>
             <div xml:id="klio-2008">
-               <head xml:id="head-127">Nagrada KLIO 2008</head>
+               <head xml:id="head-127">Nagrada KLIO 2007-2008</head>
                <figure xml:id="figure-142">
                   <graphic url="wp-legacy/uploads/2015/08/Peter_Vodopivec_Od_Pohlinove_slovnice.jpg"
                      width="203px" height="300px"/>
@@ -4407,7 +4536,7 @@
                      stoletja do konca 20. stoletja</hi>, Ljubljana: Modrijan, 2006.</p>
             </div>
             <div xml:id="klio-2006">
-               <head xml:id="head-129">Nagrada KLIO 2006</head>
+               <head xml:id="head-129">Nagrada KLIO 2005-2006</head>
                <figure xml:id="figure-143">
                   <graphic url="wp-legacy/uploads/2015/08/Alenka_Cedilnik_Ilirik.jpg" width="209px"
                      height="300px"/>
@@ -4420,7 +4549,7 @@
                   ZRC SAZU, 2004 (Zbirka Thesaurus memoriae. Dissertationes, 3).</p>
             </div>
             <div xml:id="klio-2004">
-               <head xml:id="head-131">Nagrada KLIO 2004</head>
+               <head xml:id="head-131">Nagrada KLIO 2003-2004</head>
                <figure xml:id="figure-144">
                   <graphic url="wp-legacy/uploads/2015/08/Matjaz_Bizjak_Ratio_facta_est.jpg"
                      width="214px" height="300px"/>
@@ -4432,7 +4561,7 @@
                   Thesaurus memoriae. Dissertationes, 2).</p>
             </div>
             <div xml:id="klio-2002">
-               <head xml:id="head-133">Nagrada KLIO 2002</head>
+               <head xml:id="head-133">Nagrada KLIO 2001-2002</head>
                <figure xml:id="figure-145">
                   <graphic url="wp-legacy/uploads/2015/08/Igor_Grdina_Ipavci.jpg" width="208px"
                      height="300px"/>
@@ -4459,6 +4588,15 @@
             <div xml:id="nagrade-Ervina-Dolenca">
                <head xml:id="head-137">Prejemniki nagrade dr. Ervina Dolenca:</head>
                <list rend="bulleted" xml:id="list-22">
+                  <item>leta 2020 dr. <hi rend="bold">David Petelin</hi> za delo: <hi rend="italic"
+                        >Živeti v socialistični Ljubljani: mestno življenje v prvih dveh desetletjih
+                        po drugi svetovni vojni</hi>. Ljubljana 2019.</item>
+                  <item>leta 2018 dr. <hi rend="bold">Gašper Mithans</hi> za delo: <hi rend="italic"
+                        >Jugoslovanski konkordat : pacem in discordia ali jugoslovanski
+                        "kulturkampf"</hi>. Razpoznavanja 30, Ljubljana 2017.</item>
+                  <item>leta 2016 dr. <hi rend="bold">Žiga Koncilija</hi>, <hi rend="italic"
+                        >Politično sodstvo: sodni procesi na Slovenskem v dveh Jugoslavijah</hi>,
+                     Ljubljana, Inštitut za novejšo zgodovino, 2015.</item>
                   <item>leta 2012 dr. <hi rend="bold">Neva Makuc</hi> za delo: <hi rend="italic"
                         >Historiografija in mentaliteta v novoveški Furlaniji in Goriški</hi>,
                      Ljubljana: Založba ZRC, ZRC SAZU, 2011 (Zbirka Thesaurus memoriae.
