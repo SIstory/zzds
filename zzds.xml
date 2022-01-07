@@ -184,7 +184,7 @@
          </div>
          <div type="preface" xml:id="akti-drustva">
             <head>Akti društva</head>
-            <div xml:id="statut-drustva">
+            <div type="subchapter" xml:id="statut-drustva">
                <head xml:id="head-9">Statut društva</head>
                <p xml:id="p-21">
                   <hi rend="bold">1. člen</hi>
@@ -445,7 +445,7 @@
                   <hi rend="bold">dr. Stane Granda</hi>
                </p>
             </div>
-            <div xml:id="pravilnik-Klio">
+            <div type="subchapter" xml:id="pravilnik-Klio">
                <head>Pravilnik o podeljevanju Nagrade Klio za raziskovalno delo v zgodovinopisju in
                   Priznanja Ervina Dolenca za znanstveni prvenec</head>
                <p><hi rend="bold">1. člen</hi></p>
