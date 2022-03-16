@@ -557,5 +557,14 @@
          </div>
       </xsl:for-each>
    </xsl:template>
+      
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc></desc>
+   </doc>
+   <xsl:template match="tei:figure[@type='PDF']">
+      <embed src="{tei:graphic/@url}" type="application/pdf" height="1400" width="100%"></embed>
+   </xsl:template>
+   
+   
    
 </xsl:stylesheet>

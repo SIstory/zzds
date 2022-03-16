@@ -186,7 +186,13 @@
             <head>Akti društva</head>
             <div type="subchapter" xml:id="statut-drustva">
                <head xml:id="head-9">Statut društva</head>
-               <p xml:id="p-21">
+               <figure type="PDF" xml:id="statut">
+                  <graphic url="wp-legacy/uploads/2022/01/ZZDS_statut_5_potjen.pdf"/>
+               </figure>
+               <p>
+                  <ref target="wp-legacy/uploads/2022/01/ZZDS_statut_5_potjen.pdf">Statut društva</ref>
+               </p>
+               <!--<p xml:id="p-21">
                   <hi rend="bold">1. člen</hi>
                </p>
                <p xml:id="p-22">Društvo se imenuje Zveza zgodovinskih društev Slovenije ( v
@@ -443,7 +449,7 @@
                </p>
                <p xml:id="p-94">
                   <hi rend="bold">dr. Stane Granda</hi>
-               </p>
+               </p>-->
             </div>
             <div type="subchapter" xml:id="pravilnik-Klio">
                <head>Pravilnik o podeljevanju Nagrade Klio za raziskovalno delo v zgodovinopisju in
