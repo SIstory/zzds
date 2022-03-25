@@ -189,10 +189,10 @@
                <figure type="PDF" xml:id="statut">
                   <graphic url="wp-legacy/uploads/2022/01/ZZDS_statut_5_potjen.pdf"/>
                </figure>
-               <p>
+               <!--<p>
                   <ref target="wp-legacy/uploads/2022/01/ZZDS_statut_5_potjen.pdf">Statut društva</ref>
                </p>
-               <!--<p xml:id="p-21">
+               <p xml:id="p-21">
                   <hi rend="bold">1. člen</hi>
                </p>
                <p xml:id="p-22">Društvo se imenuje Zveza zgodovinskih društev Slovenije ( v
@@ -4599,10 +4599,12 @@
                         po drugi svetovni vojni</hi>. Ljubljana 2019.</item>
                   <item>leta 2018 dr. <hi rend="bold">Gašper Mithans</hi> za delo: <hi rend="italic"
                         >Jugoslovanski konkordat : pacem in discordia ali jugoslovanski
-                        "kulturkampf"</hi>. Razpoznavanja 30, Ljubljana 2017.</item>
+                     "kulturkampf"</hi>. Ljubljana: Inštitut za novejšo zgodovino, 2017 (Zbirka Razpoznavanja = Recognitiones,
+                     30).</item>
                   <item>leta 2016 dr. <hi rend="bold">Žiga Koncilija</hi>, <hi rend="italic"
                         >Politično sodstvo: sodni procesi na Slovenskem v dveh Jugoslavijah</hi>,
-                     Ljubljana, Inštitut za novejšo zgodovino, 2015.</item>
+                     Ljubljana, Inštitut za novejšo zgodovino, 2015 (Zbirka Razpoznavanja = Recognitiones,
+                     26).</item>
                   <item>leta 2012 dr. <hi rend="bold">Neva Makuc</hi> za delo: <hi rend="italic"
                         >Historiografija in mentaliteta v novoveški Furlaniji in Goriški</hi>,
                      Ljubljana: Založba ZRC, ZRC SAZU, 2011 (Zbirka Thesaurus memoriae.
