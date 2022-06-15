@@ -3453,6 +3453,23 @@
          </div>
       </body>
       <back>
+         <div type="bibliogr" xml:id="zaloznistvo">
+            <head>Založništvo</head>
+            <table>               
+               <row>
+                  <!--<cell>Zbirka ZZDS</cell>-->
+                  <cell><ref target="#zbirka-zzds">Zbirka Zveze zgodovinskih društev Slovenije</ref></cell>
+               </row>
+               <row>
+                  <!--<cell>Kronika</cell>-->
+                  <cell><ref target="https://kronika.zzds.si/kronika">Revija Kronika</ref></cell>
+               </row>
+               <row>
+                  <!--<cell>Zgodovinski časopis</cell>-->
+                  <cell><ref target="http://www.zgodovinskicasopis.si/">Zgodovinski časopis</ref></cell>
+               </row>
+            </table>
+         </div>
          <div type="bibliogr" xml:id="zbirka-zzds">
             <head xml:id="head-68">Zbirka ZZDS</head>
             <div xml:id="bibl-011">
@@ -3641,7 +3658,7 @@
          </div>
          <div type="bibliogr" xml:id="Kronika">
             <head>Kronika</head>
-            <p style="text-align:center;"><hi rend="bold"><ref target="https://kronika.zzds.si/kronika">https://kronika.zzds.si</ref></hi></p>
+            <p style="text-align:center;"><ref target="https://kronika.zzds.si/kronika">https://kronika.zzds.si</ref></p>
          </div>
          <div type="bibliogr" xml:id="zgodovinski-casopis">            
             <head>Zgodovinski časopis</head>
