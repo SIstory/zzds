@@ -149,7 +149,7 @@
    </doc>
    <xsl:template name="nav-bibl-head">
       <xsl:param name="thisLanguage"/>
-      <xsl:text>Zbirka ZZDS</xsl:text>
+      <xsl:text>Založništvo</xsl:text>
    </xsl:template>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
@@ -565,6 +565,5 @@
       <embed src="{tei:graphic/@url}" type="application/pdf" height="1400" width="100%"></embed>
    </xsl:template>
    
-   
-   
+      
 </xsl:stylesheet>
