@@ -1607,6 +1607,60 @@
          </div>
       </front>
       <body>
+         <div type="chapter" xml:id="post-2022-10-07">
+            <docDate when="2022-10-07" xml:id="zzds5-docDate-1"/>
+            <head>40. zborovanje Zveze zgodovinskih društev Slovenije Izzivi slovenskega
+               zgodovinopisja v 21. stoletju </head>
+            <p xml:id="post-2022-10-07-p1" style="text-align:justify;">Vljudno vabljeni na <hi
+                  rend="bold">40. zborovanje slovenskih zgodovinark_zgodovinarjev, ki bo potekalo
+                  19. in 20. aprila 2023</hi>, predvidoma <hi rend="bold">v Novi Gorici</hi>. Glede
+               na to, da gre za jubilejno zborovanje, smo z organizacijo počakali na čas, ko močno
+               upamo, da nam epidemija ne bo preprečila izvedbe dogodka v živo. Izbrane recenzirane
+               prispevke, ki bodo predstavljali najboljše metodološke in vsebinske novosti, bomo
+               objavili v recenziranem zborniku prispevkov, predvidoma ob koncu leta 2024.
+               Kotizacija za zborovanje znaša 60 evrov, v zadnjem mesecu pred zborovanjem pa 70
+               evrov; vključevala bo tudi osvežitev med odmori.</p>
+            <p xml:id="post-2022-10-07-p2" style="text-align:justify;">Za razliko od preteklih
+               zborovanj smo se odločili, da spodbujamo predvsem prijavo panelov. To pomeni, da
+               vodja panela prijavi naslov panela ter sporoči avtorice_avtorje in naslove od 3 do 5
+               referatov, ki tvorijo vsebinsko zaokrožen panel. Poleg panelov spodbujamo prijavo
+               okroglih miz o aktualnih izzivih raziskovalnega in aplikativnega dela v
+               zgodovinopisju. Dobrodošla pa je tudi prijava posameznih referatov, če v slovenski
+               zgodovinopisni srenji ne najdete kolegic_kolegov, s katerimi bi se povezali v panel.
+               Za vsak panel, okroglo mizo ali individualni referat, ki ne bo del panela, nam
+               pošljite predstavitev vsebine v dolžini 1200 znakov, vključno s presledki. </p>
+            <p xml:id="post-2022-10-07-p3" style="text-align:justify;">Zgodovinarke_zgodovinarji,
+               dobrodošli, da predstavite sveže in zrele rezultate na katero koli temo in iz
+               katerega koli zgodovinskega obdobja ter prispevke, ki smiselno povezujejo več tem
+               in/ali obdobij! Posebej prosimo, da se prijavite tudi članice_člani različnih
+               zgodovinopisnih raziskovalnih in aplikativnih projektov na področju znanosti in
+               izobraževanja ter zborovanje obogatite s svojimi aktualnimi novimi dosežki.</p>
+            <p xml:id="post-2022-10-07-p4" style="text-align:justify;">Želimo vas spodbuditi, da pri
+               načrtovanju panelov, referatov in okroglih miz razmišljate med drugim o sledečih
+               izzivih, seveda pa ZZDS spodbuja tudi drugačne oblike raziskovalno-aplikativne
+               kreativnosti, omenjene tematike so zgolj dodatne spodbude pri metodološkem ali
+               vsebinskem načrtovanju panelov: <hi rend="italic">slovensko zgodovinopisje in
+                  globalna perspektiva; novi metodološki pristopi v zgodovinopisju; zgodovinopisje v
+                  interdisciplinarnih povezavah; izzivi in pasti digitalizacije kulturne dediščine
+                  in zgodovinopisja v digitalnem svetu; zgodovinopisje in krize; deficitarna
+                  področja zgodovinopisja; izzivi didaktike zgodovine; zgodovinopisje in sodobni
+                  muzeji; zgodovinopisje in možnosti podpore projektom</hi>.</p>
+            <p xml:id="post-2022-10-07-p5" style="text-align:justify;"><hi rend="bold">Prijave
+                  panelov, okroglih miz in posameznih referatov sprejemamo do 20. novembra 2022</hi>
+               na naslovu: <ref target="mailto:info.zzds@gmail.com">info.zzds@gmail.com</ref>. Ker smo na podlagi pogovorov znotraj slovenske
+               zgodovinopisne srenje ugotovili, da vabila, ki smo ga objavili 23. junija in 9.
+               septembra na zgo listi, marsikdo ni opazil, rok podaljšujemo do 20. novembra, da bo
+               dovolj časa za prijavo za tiste, ki informacije o zborovanju še niste dobili. </p>
+            <p xml:id="post-2022-10-07-p6" style="text-align:justify;">Opravili bomo recenzijo
+               prejetih predlogov, tako da boste do <hi rend="bold">10. decembra 2022</hi>
+               obveščeni, ali je vaš prispevek uvrščen na program Zborovanja. Tedaj bomo poslali
+               tudi navodila za pisanje prispevkov za v zbornik. Plačilo kotizacije bo mogoče od 30.
+               januarja 2023 dalje, o tehničnih podrobnostih glede plačila vas bomo pravočasno
+               obvestili.</p>
+            <p xml:id="post-2022-10-07-p7" style="text-align:justify;"><hi rend="bold">Veselimo se
+                  vsebinsko in metodološko bogatega jubilejnega zborovanja!</hi></p>
+            <p xml:id="post-2022-10-07-p8" style="text-align:justify;">Vodstvo ZZDS</p>
+         </div>
          <div type="chapter" xml:id="post-2022-04-20">
             <docDate when="2022-04-20" xml:id="zzds4-docDate-1"/>
             <head>Poziv za oddajo predlogov za Nagrado Klio in priznanje Ervina Dolenca</head>
@@ -3455,10 +3509,11 @@
       <back>
          <div type="bibliogr" xml:id="zaloznistvo">
             <head>Založništvo</head>
-            <table>               
+            <table>
                <row>
                   <!--<cell>Zbirka ZZDS</cell>-->
-                  <cell><ref target="#zbirka-zzds">Zbirka Zveze zgodovinskih društev Slovenije</ref></cell>
+                  <cell><ref target="#zbirka-zzds">Zbirka Zveze zgodovinskih društev
+                     Slovenije</ref></cell>
                </row>
                <row>
                   <!--<cell>Kronika</cell>-->
@@ -3466,7 +3521,8 @@
                </row>
                <row>
                   <!--<cell>Zgodovinski časopis</cell>-->
-                  <cell><ref target="http://www.zgodovinskicasopis.si/">Zgodovinski časopis</ref></cell>
+                  <cell><ref target="http://www.zgodovinskicasopis.si/">Zgodovinski
+                     časopis</ref></cell>
                </row>
             </table>
          </div>
@@ -3658,11 +3714,13 @@
          </div>
          <div type="bibliogr" xml:id="Kronika">
             <head>Kronika</head>
-            <p style="text-align:center;"><ref target="https://kronika.zzds.si/kronika">https://kronika.zzds.si</ref></p>
+            <p style="text-align:center;"><ref target="https://kronika.zzds.si/kronika"
+                  >https://kronika.zzds.si</ref></p>
          </div>
-         <div type="bibliogr" xml:id="zgodovinski-casopis">            
+         <div type="bibliogr" xml:id="zgodovinski-casopis">
             <head>Zgodovinski časopis</head>
-            <p style="text-align:center;"><ref target="http://www.zgodovinskicasopis.si/">http://www.zgodovinskicasopis.si/</ref></p>
+            <p style="text-align:center;"><ref target="http://www.zgodovinskicasopis.si/"
+                  >http://www.zgodovinskicasopis.si/</ref></p>
          </div>
          <div type="appendix" xml:id="zborovanja-zzds">
             <head xml:id="head-90">Zborovanja ZZDS</head>
