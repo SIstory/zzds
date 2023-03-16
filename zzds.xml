@@ -1609,20 +1609,21 @@
       <body>
          <div type="chapter" xml:id="post-2023-03-16">
             <docDate when="2023-03-16" xml:id="zzds9-docDate-1"/>
-            <head><hi rend="bold">UDELEŽBA NA 40. ZBOROVANJU ZZDS</hi><lb/><hi rend="italic">Izzivi slovenskega zgodovinopisja v 21.
+            <head><hi rend="bold">UDELEŽBA NA 40. ZBOROVANJU ZZDS</hi></head><lb/>
+            <head><hi rend="italic">Izzivi slovenskega zgodovinopisja v 21.
                stoletju</hi></head>
             <figure>
-               <graphic url="wp-legacy/uploads/2023/01/logotip.png" width="250px"/>
+               <graphic url="wp-legacy/uploads/2023/01/logotip.png" width="400px"/>
             </figure>
-            <p>Vabimo vas, da se udeležite 40. zborovanja ZZDS <hi rend="italic">Izzivi slovenskega zgodovinopisja v
+            <p xml:id="zzds9-docDate-1-p1" style="text-align:justify;">Vabimo vas, da se udeležite 40. zborovanja ZZDS <hi rend="italic">Izzivi slovenskega zgodovinopisja v
                21. stoletju</hi>. Zborovanje bo potekalo v Novi Gorici, na treh lokacijah: Mestna občina
                Nova Gorica (Trg Edvarda Kardelja 1), Pokrajinski arhiv v Novi Gorici (Trg Edvarda
                Kardelja 3) in Xcenter (Delpinova ulica 20), v sredo, 19. 4., in četrtek, 20. 4.
                2023. </p>
-            <p>Začasni program je dostopen: na:
+            <p xml:id="zzds9-docDate-1-p2" style="text-align:justify;">Začasni program je dostopen: na:
                <ref target="https://drive.google.com/file/d/1d6fxRjF8qY8Y9ijYPwpFDAYbPPAsPbGH/view?usp=sharing&amp;fbclid=IwAR06l4_ilRi-PQkOyBbs2PnyS58isD8Yty6vcytXj3UjjTEOjLTEydG3Opo">https://drive.google.com/.../1d6fxRjF8qY8Y9ijYPwp.../view...</ref> </p>
-            <p>Vse potrebne informacije za prijavo najdete na naslednji povezavi. </p>
-            <p><hi rend="bold">PRIJAVNICA IN KOTIZACIJA</hi>: <ref target="wp-legacy/uploads/2023/01/vabilo_na_zborovanje.docx">LINK</ref></p>
+            <p xml:id="zzds9-docDate-1-p3" style="text-align:justify;">Vse potrebne informacije za prijavo najdete na naslednji povezavi. </p>
+            <p xml:id="zzds9-docDate-1-p4" style="text-align:justify;"><hi rend="bold">PRIJAVNICA IN KOTIZACIJA</hi>: <ref target="wp-legacy/uploads/2023/01/vabilo_na_zborovanje.docx">LINK</ref> (.docx)</p>
          </div>
          <div type="chapter" xml:id="post-2022-12-19">
             <docDate when="2022-12-19" xml:id="zzds8-docDate-1"/>
