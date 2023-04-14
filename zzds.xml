@@ -1609,11 +1609,12 @@
       <body>
          <div type="chapter" xml:id="post-2023-04-14">
             <docDate when="2023-04-14" xml:id="zzds10-docDate-1"></docDate>
-            <head>Izzivi slovenskega zgodovinopisja v 21. stoletju - Jubilejno 40. zborovanje slovenskih zgodovinark in zgodovinarjev</head>           
+            <head>Izzivi slovenskega zgodovinopisja v 21. stoletju</head>    
+            <p xml:id="zzds10-docDate-1-p1" style="text-align:center"><hi rend="bold">Jubilejno 40. zborovanje slovenskih zgodovinark in zgodovinarjev</hi><lb/>Program:</p>
             <figure type="PDF" xml:id="SKUC-pdf-01">
                <graphic url="wp-legacy/uploads/2023/02/Program_40_zborovanje_ZZDS.pdf"/>
             </figure>            
-            <p xml:id="zzds10-docDate-1-p1">
+            <p xml:id="zzds10-docDate-1-p2">
                <ref target="wp-legacy/uploads/2023/02/Program_40_zborovanje_ZZDS.pdf"
                   >Izzivi slovenskega zgodovinopisja v 21. stoletju (pdf)</ref>
             </p> 
