@@ -848,10 +848,10 @@
             <div xml:id="dr-franc-rozman">
                <head xml:id="head-17a">Dr. Franc Rozman</head>
                <figure xml:id="figure-1a">
-                  <head>Častni član Dr. Franz Rozman</head>
+<!--                  <head>Dr. Franc Rozman</head>-->
                   <graphic url="wp-legacy/uploads/2024/01/rozman.jpg" width="200px" height="150px"></graphic>
                </figure>
-               <p xml:id="p-castni-1">Prof. dr. Franc Rozman, rojen 30. maja 1941 na Bledu, je leta 
+               <p xml:id="p-castni-1" style="text-align:justify">Prof. dr. Franc Rozman, rojen 30. maja 1941 na Bledu, je leta 
                   1965 diplomiral in dvanajst let kasneje doktoriral na Filozofski fakulteti v Ljubljani
                   s temo Socialistično gibanje na Slovenskem, za katero je prejel več nagrad. Med leti 
                   1965-1994 je bil zaposlen na Inštitutu za zgodovino delavskega gibanja/Inštitutu za 
@@ -860,7 +860,7 @@
                   predmet Zgodovina Jugovzhodne Evrope 1750-1918 tudi na Filozofski fakulteti Univerze v
                   Ljubljani (do leta 2004).</p>
                <note type="description" xml:id="note-0">
-                  <p xml:id="p-castni-2">Prof. dr. Franc Rozman, rojen 30. maja 1941 na Bledu, je leta 
+                  <p xml:id="p-castni-2" style="text-align:justify">Prof. dr. Franc Rozman, rojen 30. maja 1941 na Bledu, je leta 
                      1965 diplomiral in dvanajst let kasneje doktoriral na Filozofski fakulteti v Ljubljani
                      s temo Socialistično gibanje na Slovenskem, za katero je prejel več nagrad. Med leti 
                      1965-1994 je bil zaposlen na Inštitutu za zgodovino delavskega gibanja/Inštitutu za 
@@ -868,7 +868,7 @@
                      narodov, tam je bil od leta 1986 tudi redni profesor. Do leta 2004 je honorarno predaval
                      predmet Zgodovina Jugovzhodne Evrope 1750-1918 tudi na Filozofski fakulteti Univerze v
                      Ljubljani (do leta 2004).</p>
-                  <p xml:id="p-castni-3">Kot raziskovalec na se je posvetil  zgodovini delavskega gibanja na 
+                  <p xml:id="p-castni-3" style="text-align:justify">Kot raziskovalec na se je posvetil  zgodovini delavskega gibanja na 
                      Slovenskem pred prvo svetovno vojno, širše pa tudi zgodovini Slovencev v 19. stoletju. 
                      Bibliografija dr. Franca Rozmana obsega več kot 400 enot, med njimi je več znanstvenih 
                      monografij, tudi takšnih, ki so uveljavljale nove zgodovinske tematike in pristope, 
@@ -881,7 +881,7 @@
                      Modincih (Kulturhistorisches Symposium Mögersdorf). Kot eden najbolj prepoznavnih slovenskih 
                      zgodovinarjev v Avstrijskem prostoru je bil član slovensko-avstrijske zgodovinske komisije, 
                      ki je analizirala slovensko-avstrijske odnose v 20. stoletju.</p>
-                  <p xml:id="p-castni-4">Veliko let je bil urednik revije Prispevki za zgodovino delavskega 
+                  <p xml:id="p-castni-4" style="text-align:justify">Veliko let je bil urednik revije Prispevki za zgodovino delavskega 
                      gibanja (danes Prispevki za novejšo zgodovino), ki je pod njegovim urednikovanjem spremenila
                      naslov, da je bolj ustrezal vsebini revije. Bil je tudi v uredništvu Jugoslovanskega istorijskega
                      časopisa in Zgodovinskega časopisa, leta 1994 pa je postal tudi predsednik Zveze zgodovinskih 
@@ -897,12 +897,12 @@
                   <graphic url="wp-legacy/uploads/2015/08/castni-clan-Dr-Milica-Kacin-Wohinz.jpg"
                      width="150px" height="150px"/>
                </figure>
-               <p xml:id="p-95">Rodila se je 12. oktobra 1930 na Reki pri Cerknem. V otroških in
+               <p xml:id="p-95" style="text-align:justify">Rodila se je 12. oktobra 1930 na Reki pri Cerknem. V otroških in
                   najstniških letih je doživljala fašizem, vojno, okupacijo in domače partizansko
                   Cerkno z vsemi njegovimi protislovji. Nižjo gimnazijo v Cerknem je obiskovala le
                   leta 1945/46, nato je šolanje nadaljevala na gimnaziji v Postojni.</p>
-               <note type="description" xml:id="note-1">
-                  <p>Rodila se je 12. oktobra 1930 na Reki pri Cerknem. V otroških in najstniških
+               <note type="description" xml:id="note-1" style="text-align:justify">
+                  <p style="text-align:justify">Rodila se je 12. oktobra 1930 na Reki pri Cerknem. V otroških in najstniških
                      letih je doživljala fašizem, vojno, okupacijo in domače partizansko Cerkno z
                      vsemi njegovimi protislovji. Nižjo gimnazijo v Cerknem je obiskovala le leta
                      1945/46, nato je šolanje nadaljevala na gimnaziji v Postojni. Po končani
@@ -919,7 +919,7 @@
                      direktorica. Upokojila se je leta 1993. V letih 1993-2000 je bila sopredsednica
                      slovensko-italijanske zgodovinsko-kulturne komisije, ki sta jo imenovali
                      slovenska in italijanska vlada.</p>
-                  <p>Njeno raziskovalno področje je osredotočeno na zgodovino slovenske in hrvaške
+                  <p style="text-align:justify">Njeno raziskovalno področje je osredotočeno na zgodovino slovenske in hrvaške
                      narodne manjšine v Italiji med dvema svetovnima vojnama. Kot prva iz Slovenije
                      je dopolnila podobo zgodovine primorskih Slovencev tudi z gradivom iz
                      italijanskih arhivov. Njena bibliografija znanstvenih in strokovnih del obsega
@@ -932,25 +932,25 @@
                         Evropi, Primorska 1925-1935</hi> (1990), ki je bila nagrajena s Kidričevo
                      nagrado za vrhunsko delo, ter <hi rend="italic">Zgodovina Slovencev v Italiji
                         1866-2000</hi> (2000).</p>
-                  <p>Sodelovala je na mnogih znanstvenih srečanjih in v uredništvih obsežnejših
+                  <p style="text-align:justify">Sodelovala je na mnogih znanstvenih srečanjih in v uredništvih obsežnejših
                      projektov (npr. <hi rend="italic">Enciklopedija Slovenije</hi>). Prejela je več
                      odlikovanj, med drugim Red dela z zlatim vencem (1997) in Častni znak svobode
                      Republike Slovenije (2000), ter priznanje Ambasador Republike Slovenije v
                      znanosti (1998).</p>
-                  <p>Nevenka Troha, »Milici Kacin Wohinz ob njeni sedemdesetletnici«, <hi
+                  <p style="text-align:justify">Nevenka Troha, »Milici Kacin Wohinz ob njeni sedemdesetletnici«, <hi
                         rend="italic">Zgodovinski časopis</hi>, 54 (2000), št. 2, 277-284.</p>
-                  <p>Branko Marušič, »Jubilantka Milica Kacin Wohinz«, Zbornik Milice Kacin Wohinz,
+                  <p style="text-align:justify">Branko Marušič, »Jubilantka Milica Kacin Wohinz«, Zbornik Milice Kacin Wohinz,
                         <hi rend="italic">Prispevki za novejšo zgodovino,</hi> 2000, št. 1,
                      11-36.</p>
                </note>
             </div>
             <div xml:id="dr-vasilij-melik">
-               <head xml:id="head-20">Dr. Vasilij Melik</head>
-               <p xml:id="p-101">Rodil se je 17. januarja 1921 v Ljubljani kot drugi sin znanega
+               <head xml:id="head-20">Akad. prof. dr. Vasilij Melik</head>
+               <p xml:id="p-101" style="text-align:justify">Rodil se je 17. januarja 1921 v Ljubljani kot drugi sin znanega
                   geografa Antona Melika. Leta 1939 je maturiral na klasični gimnaziji v Ljubljani.
                   Med vojno je bil interniran v Gonarsu in na prisilnem delu v Postojni.</p>
                <note type="description" xml:id="note-2">
-                  <p>Rodil se je 17. januarja 1921 v Ljubljani kot drugi sin znanega geografa Antona
+                  <p style="text-align:justify">Rodil se je 17. januarja 1921 v Ljubljani kot drugi sin znanega geografa Antona
                      Melika. Leta 1939 je maturiral na klasični gimnaziji v Ljubljani. Med vojno je
                      bil interniran v Gonarsu in na prisilnem delu v Postojni. Kljub vojni vihri je
                      leta 1943 na Filozofski fakulteti Univerze v Ljubljani diplomiral iz zgodovine
@@ -967,7 +967,7 @@
                      Leta 1960 je bil izvoljen za docenta, 1969 za izrednega in leta 1974 za rednega
                      profesorja, ob upokojitvi leta 1991 pa je postal zaslužni profesor. V letih
                      1974-1977 je bil dekan Filozofske fakultete. Umrl je 28. januarja 2009.</p>
-                  <p>Bil je specialist za slovensko zgodovino »dolgega« 19. stoletja, sploh za čas
+                  <p style="text-align:justify">Bil je specialist za slovensko zgodovino »dolgega« 19. stoletja, sploh za čas
                      med marčno revolucijo (1848) in razpadom monarhije (1918). Njegova strokovna
                      bibliografija obsega skoraj 400 enot. Že leta 1965 je pod naslovom <hi
                         rend="italic">Volitve na Slovenskem 1861-1918 </hi>objavil svojo predelano
@@ -985,30 +985,30 @@
                         rend="italic">Zgodovinskega časopisa</hi> ter 21 knjig, ki so izšle v<hi
                         rend="italic"> Zbirki Zgodovinskega časopisa.</hi>
                   </p>
-                  <p>Za obsežen in raznovrsten znanstveni opus mu je leta 1991 avstrijska
+                  <p style="text-align:justify">Za obsežen in raznovrsten znanstveni opus mu je leta 1991 avstrijska
                      raziskovalna skupnost podelila prestižno Gindelyjevo nagrado, leta kasneje je
                      dobil še avstrijski častni križec za znanost in umetnost. Leta 1993 je postal
                      izredni, leta 1997 pa redni član SAZU. Ob osemdesetletnici (2001) je bil
                      imenovan za častnega člana Zveze zgodovinskih društev Slovenije. Leta 2002 je
                      bil odlikovan s Srebrnim častnim znakom Republike Slovenije.</p>
-                  <p>
+                  <p style="text-align:justify">
                      <hi rend="italic">Oddelek za zgodovino 1920-2010: ob devetdesetletnici</hi>,
                      ur. Janez Mlinar in Mitja Ferenc. Ljubljana: Znanstvena založba Filozofske
                      fakultete, 2010, 36-38.</p>
-                  <p>Janez Cvirn, »Akademik dr. Vasilij Melik – osemdesetletnik«, <hi rend="italic"
+                  <p style="text-align:justify">Janez Cvirn, »Akademik dr. Vasilij Melik – osemdesetletnik«, <hi rend="italic"
                         >Zgodovinski časopis</hi>, 55 (2001), št. 1, 5-7.</p>
                </note>
             </div>
             <div xml:id="dr-tone-ferenc">
-               <head xml:id="head-21">Dr. Tone Ferenc</head>
-               <p xml:id="p-107">Rojen je bil 6. decembra 1927 v Veržeju. Po maturi na murskosoboški
+               <head xml:id="head-21">Prof. dr. Tone Ferenc</head>
+               <p xml:id="p-107" style="text-align:justify">Rojen je bil 6. decembra 1927 v Veržeju. Po maturi na murskosoboški
                   gimnaziji leta 1951 se je odločil za študij zgodovine na Filozofski fakulteti v
                   Ljubljani in leta 1956 diplomiral. Doktorsko disertacijo <hi rend="italic"
                      >Nacistična raznarodovalna politika v Sloveniji v letih 1941-1945</hi> je
                   obranil leta 1965 na Filozofsko-jezikoslovni fakulteti v Beogradu, kjer so jo
                   ocenili za eno najboljših, kar jih je bilo obranjenih na tej fakulteti.</p>
                <note type="description" xml:id="note-3">
-                  <p>Rojen je bil 6. decembra 1927 v Veržeju. Po maturi na murskosoboški gimnaziji
+                  <p style="text-align:justify">Rojen je bil 6. decembra 1927 v Veržeju. Po maturi na murskosoboški gimnaziji
                      leta 1951 se je odločil za študij zgodovine na Filozofski fakulteti v Ljubljani
                      in leta 1956 diplomiral. Doktorsko disertacijo <hi rend="italic">Nacistična
                         raznarodovalna politika v Sloveniji v letih 1941-1945</hi> je obranil leta
@@ -1025,7 +1025,7 @@
                      Filozofski fakulteti. Po upokojitvi leta 1997 je ostal zunanji sodelavec
                      Inštituta. 17. decembra 2002 je postal častni član Zveze zgodovinskih društev
                      Slovenije. Umrl je 26. oktobra 2003.</p>
-                  <p>Večina njegovega raziskovalnega dela obravnava zgodovino slovenskega etničnega
+                  <p style="text-align:justify">Večina njegovega raziskovalnega dela obravnava zgodovino slovenskega etničnega
                      ozemlja v času 1941-1945. Ukvarjal se je z zgodovino okupacije in NOB-ja na
                      Slovenskem, zlasti s problematiko okupacijskih sistemov od okupacije,
                      aneksionizma, raznarodovanja in nasilja do odporništva. Njegova bibliografija
@@ -1053,19 +1053,19 @@
                         revolucije v Sloveniji</hi>). Njegov sin Mitja Ferenc je po očetovi smrti v
                      zbirki <hi rend="italic">Historia</hi> izdal njegova izbrana dela v 5
                      zvezkih.</p>
-                  <p>Za svoje delo je prejel številne nagrade in priznanja, med drugim leta 1998
+                  <p style="text-align:justify">Za svoje delo je prejel številne nagrade in priznanja, med drugim leta 1998
                      Srebrni znak svobode Republike Slovenije.</p>
-                  <p>
+                  <p style="text-align:justify">
                      <hi rend="italic">Oddelek za zgodovino 1920-2010: ob devetdesetletnici</hi>,
                      ur. Janez Mlinar in Mitja Ferenc. Ljubljana: Znanstvena založba Filozofske
                      fakultete, 2010, 22-23.</p>
-                  <p>Boris Mlakar, »Prof. dr. Tone Ferenc – sedemdesetletnik«, <hi rend="italic"
+                  <p style="text-align:justify">Boris Mlakar, »Prof. dr. Tone Ferenc – sedemdesetletnik«, <hi rend="italic"
                         >Zgodovinski časopis</hi>, 51 (1997), št. 3, 297-300.</p>
                </note>
             </div>
             <div xml:id="dr-janko-pleterski">
-               <head xml:id="head-22">Dr. Janko Pleterski</head>
-               <p xml:id="p-113">Rojen je bil 1. februarja 1923 v Mariboru. Leta 1941 je maturiral
+               <head xml:id="head-22">Akad. prof. dr. Janko Pleterski</head>
+               <p xml:id="p-113" style="text-align:justify">Rojen je bil 1. februarja 1923 v Mariboru. Leta 1941 je maturiral
                   na realni gimnaziji v Ljubljani. Po začetku italijanske okupacije Ljubljanske
                   pokrajine je bil avgusta 1941 zaradi sodelovanja z OF aretiran in zaprt v
                   Alessandriji. Po kapitulaciji Italije septembra 1943 se je vrnil v Ljubljano in se
@@ -1073,7 +1073,7 @@
                   jugoslovanskem zunanjem ministrstvu v Beogradu ter vmes (1947) končal diplomatsko
                   šolo tega ministrstva.</p>
                <note type="description" xml:id="note-4">
-                  <p>Rojen je bil 1. februarja 1923 v Mariboru. Leta 1941 je maturiral na realni
+                  <p style="text-align:justify">Rojen je bil 1. februarja 1923 v Mariboru. Leta 1941 je maturiral na realni
                      gimnaziji v Ljubljani. Po začetku italijanske okupacije Ljubljanske pokrajine
                      je bil avgusta 1941 zaradi sodelovanja z OF aretiran in zaprt v Alessandriji.
                      Po kapitulaciji Italije septembra 1943 se je vrnil v Ljubljano in se v juliju
@@ -1092,7 +1092,7 @@
                      dekan Filozofske fakultete. Leta 1989 je postal izredni, 1993 pa redni član
                      SAZU. Med leti 1986-1989 je bil član CK ZKS, nato pa od maja 1988 do maja 1990
                      član predsedstva SR Slovenije.</p>
-                  <p>Ustvaril je obsežen znanstveni in strokovni opus (s prevodi 18 knjig, nad 100
+                  <p style="text-align:justify">Ustvaril je obsežen znanstveni in strokovni opus (s prevodi 18 knjig, nad 100
                      večjih razprav), v katerem je obravnaval teme iz druge polovice 19. in prve
                      polovice 20. stoletja o Slovencih v Avstriji in slovenski narodni zgodovini,
                      jugoslovanskem vprašanju ter povezanosti družbenega z narodnim vprašanjem. Med
@@ -1104,7 +1104,7 @@
                         slovenskih izbirah v razklani Evropi</hi> (1993) in <hi rend="italic">Dr.
                         Ivan Šušteršič: pot prvaka slovenskega političnega katolicizma</hi>
                      (1998).</p>
-                  <p>Za svoje delo je prejel dve nagradi Sklada Borisa Kidriča (1965 in 1970),
+                  <p style="text-align:justify">Za svoje delo je prejel dve nagradi Sklada Borisa Kidriča (1965 in 1970),
                      priznanje Andreja Schusterja Drabosnjaka (1968), nagrado Dimitrija Tucovića
                      (1985), Kidričevo nagrado (1986), priznanji Inštituta za narodnostna vprašanja
                      (1995) in dr. Franca Petka (2007). Odlikovan je bil z redom zaslug za narod
@@ -1115,13 +1115,13 @@
                      Slovenije«. Leta 2003 je postal častni član Zveze zgodovinskih društev
                      Slovenije in Ljubljane, v letu 2005 pa mu je Alpsko-jadranska univerza v
                      Celovcu podelila častni doktorat znanosti.</p>
-                  <p>
+                  <p style="text-align:justify">
                      <hi rend="italic">Oddelek za zgodovino 1920-2010: ob devetdesetletnici</hi>,
                      ur. Janez Mlinar in Mitja Ferenc. Ljubljana: Znanstvena založba Filozofske
                      fakultete, 2010, 48.</p>
-                  <p>Dušan Nećak, »Janko Pleterski – osemdesetletnik«, <hi rend="italic">Zgodovinski
+                  <p style="text-align:justify">Dušan Nećak, »Janko Pleterski – osemdesetletnik«, <hi rend="italic">Zgodovinski
                         časopis</hi>, 57 (2003), št. 1-2, 7-9.</p>
-                  <p>
+                  <p style="text-align:justify">
                      <ref target="http://www.sazu.si/o-sazu/clani/janko-pleterski.html">Preberite
                         več</ref>
                   </p>
@@ -1129,7 +1129,7 @@
             </div>
             <div xml:id="dr-france-kresal">
                <head xml:id="head-23">Dr. France Kresal</head>
-               <p xml:id="p-120">France Kresal je bil rojen 7. avgusta 1935 v Grmu pri Trebnjem.
+               <p xml:id="p-120" style="text-align:justify">France Kresal je bil rojen 7. avgusta 1935 v Grmu pri Trebnjem.
                   Leta 1956 je maturiral na novomeški gimnaziji, nakar se je vpisal na študij
                   zgodovine, ki ga je dokončal leta 1961 z diplomsko nalogo <hi rend="italic"
                      >Tekstilni koncern Mautner in litijska predilnica</hi>, za katero je prejel
@@ -1137,7 +1137,7 @@
                   zgodovino delavskega gibanja (današnji Inštitut za novejšo zgodovino), kjer je
                   ostal vse do upokojitve leta 2000.</p>
                <note type="description" xml:id="note-5">
-                  <p>France Kresal je bil rojen 7. avgusta 1935 v Grmu pri Trebnjem. Leta 1956 je
+                  <p style="text-align:justify">France Kresal je bil rojen 7. avgusta 1935 v Grmu pri Trebnjem. Leta 1956 je
                      maturiral na novomeški gimnaziji, nakar se je vpisal na študij zgodovine, ki ga
                      je dokončal leta 1961 z diplomsko nalogo <hi rend="italic">Tekstilni koncern
                         Mautner in litijska predilnica</hi>, za katero je prejel Prešernovo nagrado
@@ -1156,7 +1156,7 @@
                      predsednik je dejavno sodeloval pri češko-jugoslovanski zgodovinski komisiji,
                      leta 1994 pa je bil tudi eden od pobudnikov za ustanovitev slovensko-češke
                      zgodovinske komisije.</p>
-                  <p>Preučuje delavsko socialno problematiko in industrijski razvoj na Slovenskem,
+                  <p style="text-align:justify">Preučuje delavsko socialno problematiko in industrijski razvoj na Slovenskem,
                      zlasti v obdobju med obema vojnama. Svojo pozornost je posvetil predvsem
                      tekstilni industriji. Na to temo je objavil kopico strokovnih in poljudnih
                      člankov, kot celoto pa jo je predstavil v svoji razširjeni doktorski
@@ -1172,9 +1172,9 @@
                         <hi rend="italic">Zgodovinskem časopisu</hi>, <hi rend="italic">Kroniki</hi>
                      in v različnih zbornikih, predstavljajo pomemben doprinos na področju
                      gospodarske in socialne zgodovine v slovenskem prostoru.</p>
-                  <p>Miroslav Stiplovšek, »France Kresal – šestdesetletnik«, <hi rend="italic"
+                  <p style="text-align:justify">Miroslav Stiplovšek, »France Kresal – šestdesetletnik«, <hi rend="italic"
                         >Zgodovinski časopis</hi>, 49 (1995), št. 3, 471-472.</p>
-                  <p>Žarko Lazarević, »Dr. France Kresal – sedemdesetletnik«, <hi rend="italic"
+                  <p style="text-align:justify">Žarko Lazarević, »Dr. France Kresal – sedemdesetletnik«, <hi rend="italic"
                         >Zgodovinski časopis</hi>, 59 (2005), št. 3-4, 515-517.</p>
                </note>
             </div>
@@ -1186,14 +1186,14 @@
                      url="wp-legacy/uploads/2015/08/castni-clan-Prof-dr-Miroslav-Stiplovsek.jpg"
                      width="150px" height="150px"/>
                </figure>
-               <p xml:id="p-125">Rodil se je 18. julija 1935 v Ljubljani. Osnovno šolo je končal v
+               <p xml:id="p-125" style="text-align:justify">Rodil se je 18. julija 1935 v Ljubljani. Osnovno šolo je končal v
                   Domžalah, gimnazijo pa v sosednjem Kamniku. Na Filozofski fakulteti v Ljubljani je
                   študiral zgodovino in diplomiral leta 1960. Naslednje leto se je kot asistent
                   zaposlil na oddelku za zgodovino Filozofske fakultete. Pod mentorstvom Metoda
                   Mikuža je leta 1966 obranil doktorsko disertacijo <hi rend="italic">Dejavnost
                      strokovnih organizacij v jugoslovanskem delu Slovenije 1918-1922</hi>.</p>
                <note type="description" xml:id="note-6">
-                  <p>Rodil se je 18. julija 1935 v Ljubljani. Osnovno šolo je končal v Domžalah,
+                  <p style="text-align:justify">Rodil se je 18. julija 1935 v Ljubljani. Osnovno šolo je končal v Domžalah,
                      gimnazijo pa v sosednjem Kamniku. Na Filozofski fakulteti v Ljubljani je
                      študiral zgodovino in diplomiral leta 1960. Naslednje leto se je kot asistent
                      zaposlil na oddelku za zgodovino Filozofske fakultete. Pod mentorstvom Metoda
@@ -1216,7 +1216,7 @@
                      vodilni kulturno–prosvetni funkcionar v občini Domžale. Za svoje zasluge v
                      dobrobit občine je dobil najvišja občinska odlikovanja in naziv častnega
                      občana.</p>
-                  <p>Preučuje zlasti slovensko zgodovino med vojnama, posamezna vprašanja pa tudi za
+                  <p style="text-align:justify">Preučuje zlasti slovensko zgodovino med vojnama, posamezna vprašanja pa tudi za
                      čas pred prvo svetovno vojno in za obdobje 1941-1945 (<hi rend="italic"
                         >Šlandrova brigada</hi>, 1971). Težišče njegovih raziskav je zlasti
                      problematika socialne zgodovine od druge polovice 19. stoletja do leta 1941
@@ -1234,15 +1234,15 @@
                      znanstveno, pedagoško in kulturno delo je prejel številna priznanja, nagrade in
                      odlikovanja, med drugim leta 2002 naziv zaslužnega profesorja ter leta 2006
                      Zlati red za zasluge Republike Slovenije.</p>
-                  <p>Božo Repe, »Prof. dr. Mirko Stiplovšek – sedemdesetletnik«, <hi rend="italic"
+                  <p style="text-align:justify">Božo Repe, »Prof. dr. Mirko Stiplovšek – sedemdesetletnik«, <hi rend="italic"
                         >Zgodovinski časopis</hi>, 59 (2005), št. 3-4, 513-514.</p>
-                  <p>Dušan Nećak, »Miroslav Stiplovšek – šestdesetletnik«, <hi rend="italic"
+                  <p style="text-align:justify">Dušan Nećak, »Miroslav Stiplovšek – šestdesetletnik«, <hi rend="italic"
                         >Zgodovinski časopis</hi>, 49 (1995), št. 2, 291-294.</p>
                </note>
             </div>
             <div xml:id="dr-ignacij-voje">
-               <head xml:id="head-26">Dr. Ignacij Voje</head>
-               <p xml:id="p-130">Ignacij Voje se je rodil 28. februarja 1926 v Ljubljani. Po končani
+               <head xml:id="head-26">Akad. prof. dr. Ignacij Voje</head>
+               <p xml:id="p-130" style="text-align:justify">Ignacij Voje se je rodil 28. februarja 1926 v Ljubljani. Po končani
                   gimnaziji se je leta 1946 vpisal na Filozofsko fakulteto v Ljubljani, kjer je že
                   pred končanim študijem zgodovine opravljal delo pomožnega asistenta pri profesorju
                   Gregorju Čremošniku, po diplomi iz obče in narodne zgodovine leta 1951 pa je
@@ -1250,7 +1250,7 @@
                   Sarajevu, kjer je segel na področje turščine, turške diplomatike in
                   paleografije.</p>
                <note type="description" xml:id="note-7">
-                  <p>Ignacij Voje se je rodil 28. februarja 1926 v Ljubljani. Po končani gimnaziji
+                  <p style="text-align:justify">Ignacij Voje se je rodil 28. februarja 1926 v Ljubljani. Po končani gimnaziji
                      se je leta 1946 vpisal na Filozofsko fakulteto v Ljubljani, kjer je že pred
                      končanim študijem zgodovine opravljal delo pomožnega asistenta pri profesorju
                      Gregorju Čremošniku, po diplomi iz obče in narodne zgodovine leta 1951 pa je
@@ -1271,12 +1271,12 @@
                      profesorja Univerze v Ljubljani, leta 2008 pa je prejel Zoisovo nagrado za
                      življensko delo. Velja za enega najboljših poznavalcev dubrovniškega
                      arhiva.</p>
-                  <p>Poleg pedagoškega dela je opravljal tudi številne administrativne funkcije. Bil
+                  <p style="text-align:justify">Poleg pedagoškega dela je opravljal tudi številne administrativne funkcije. Bil
                      je član Jugoslovanskega nacionalnega komiteja za balkanologijo (1975-1989),
                      član Jugoslovanskega komiteja za bizantologijo (1982-1987), od 1976 do 1980 je
                      bil predsednik Zgodovinskega društva za Slovenijo, v času 1980-1982 in
                      1985-1990 pa tudi predstojnik Oddelka za zgodovino na Filozofski fakulteti.</p>
-                  <p>V razpravah in študijah, objavljenih v domačih in tujih znanstvenih ter
+                  <p style="text-align:justify">V razpravah in študijah, objavljenih v domačih in tujih znanstvenih ter
                      strokovnih revijah, je obravnaval trgovske odnose med dubrovniško republiko,
                      balkanskimi deželami in italijanskimi mesti v srednjem veku. Posebej so ga
                      zanimali trgovski stiki med Dubrovnikom in slovenskim prostorom ter posamezniki
@@ -1291,31 +1291,31 @@
                      (2005), pregled dubrovniške zgodovine <hi rend="italic">Starodavni Dubrovnik v
                         besedi in sliki</hi> (2011) in krajši zgodovinski zapisi <hi rend="italic"
                         >Od Osmanov do Celjanov</hi> (2014).</p>
-                  <p>
+                  <p style="text-align:justify">
                      <hi rend="italic">Oddelek za zgodovino 1920-2010: ob devetdesetletnici</hi>,
                      ur. Janez Mlinar in Mitja Ferenc. Ljubljana: Znanstvena založba Filozofske
                      fakultete, 2010, 67.</p>
-                  <p>Ignacij Voje, <hi rend="italic">Poslovna uspešnost trgovcev v srednjeveškem
+                  <p style="text-align:justify">Ignacij Voje, <hi rend="italic">Poslovna uspešnost trgovcev v srednjeveškem
                         Dubrovniku</hi>, Ljubljana: Znanstveni inštitut Filozofske fakultete, 2003,
                      301-307.</p>
-                  <p>Vasko Simoniti, »Prof. dr. Ignacij Voje praznuje sedemdesetletnico«, <hi
+                  <p style="text-align:justify">Vasko Simoniti, »Prof. dr. Ignacij Voje praznuje sedemdesetletnico«, <hi
                         rend="italic">Zgodovinski časopis</hi>, 50 (1996), št. 1, 5-10.</p>
-                  <p>Sašo Jerše, »Prof. dr. Ignacij Voje – osemdesetletnik«, <hi rend="italic"
+                  <p style="text-align:justify">Sašo Jerše, »Prof. dr. Ignacij Voje – osemdesetletnik«, <hi rend="italic"
                         >Zgodovinski časopis</hi>, 60 (2006), št. 1-2, 5-9.</p>
                </note>
             </div>
             <div xml:id="janez-stergar">
-               <head xml:id="head-27">Janez Stergar</head>
+               <head xml:id="head-27">Dr. Janez Stergar</head>
                <figure xml:id="figure-3">
                   <graphic url="wp-legacy/uploads/2015/08/castni_clan_Janez_Stergar.jpg"
                      width="150px" height="150px"/>
                </figure>
-               <p xml:id="p-138">Rojen je 11.7.1948 v Ljubljani, kjer je 1973 na Filozofski
+               <p xml:id="p-138" style="text-align:justify">Rojen je 11.7.1948 v Ljubljani, kjer je 1973 na Filozofski
                   fakulteti diplomiral iz zgodovine in geografije; absolviral je tudi študij
                   sociologije. 1972-2013 je bil zaposlen na Inštitutu za narodnostna vprašanja – INV
                   v Ljubljani (od 1994 strokovni svetnik).</p>
                <note type="description" xml:id="note-8">
-                  <p>Rojen je 11.7.1948 v Ljubljani, kjer je 1973 na Filozofski fakulteti diplomiral
+                  <p style="text-align:justify">Rojen je 11.7.1948 v Ljubljani, kjer je 1973 na Filozofski fakulteti diplomiral
                      iz zgodovine in geografije; absolviral je tudi študij sociologije. 1972-2013 je
                      bil zaposlen na Inštitutu za narodnostna vprašanja – INV v Ljubljani (od 1994
                      strokovni svetnik). Proučuje predvsem novejšo zgodovino koroških Slovencev
@@ -1330,7 +1330,7 @@
                         Slovence</hi> (1994) ter sourednik in soavtor zbornikov <hi rend="italic"
                         >Koroški Slovenci v Avstriji včeraj in danes</hi> (1984 in 1985) ter <hi
                         rend="italic">Kärnten und Slowenien – »Dickicht und Pfade«</hi> (2005).</p>
-                  <p>Bil je soavtor ter urednik za zamejstvo pri <hi rend="italic">Enciklopediji
+                  <p style="text-align:justify">Bil je soavtor ter urednik za zamejstvo pri <hi rend="italic">Enciklopediji
                         Slovenije</hi> (16 zvezkov, 1987-2002) in urednik za zgodovino <hi
                         rend="italic">Velikega splošnega leksikona </hi>(8 zvezkov, 1997-98). Več
                      deset člankov je napisal še za druge slovenske in avstrijske enciklopedične
@@ -1339,14 +1339,14 @@
                      urednik knjižne zbirke INV <hi rend="italic">Etničnost – Ethnicity</hi>. Je
                      urednik revije <hi rend="italic">Koroški vestnik.</hi>
                   </p>
-                  <p>Od 1978 je član upravnega odbora Slovenske matice (SM), od 1986 predsednik
+                  <p style="text-align:justify">Od 1978 je član upravnega odbora Slovenske matice (SM), od 1986 predsednik
                      gospodarskega odseka in od 2011 tudi podpredsednik SM. Je dolgoletni odbornik,
                      1995-2003 podpredsednik in od 2003 predsednik Kluba koroških Slovencev v
                      Ljubljani. 1990-2010 je vodil sindikalno organizacijo v slovenski znanosti in v
                      delu kulture (v okviru SVIZ). V času državnega osamosvajanja Republike
                      Slovenije je bil od maja do oktobra 1991 predsednik Odbora za varstvo in
                      vrnitev slovenskih vojakov.</p>
-                  <p>Utemeljitev za častno članstvo ZZDS – Zveze zgodovinskih društev Slovenije 2008
+                  <p style="text-align:justify">Utemeljitev za častno članstvo ZZDS – Zveze zgodovinskih društev Slovenije 2008
                      zanj mdr. pravi, da odlaga »po skoraj petintridesetih letih nepretrganega dela
                      finančno odgovornost in skrb za izhajanje <hi rend="italic">Zgodovinskega
                         časopisa – ZČ</hi>. Med slovenskimi zgodovinarji in zgodovinarkami danes ni
@@ -1361,7 +1361,7 @@
                      bilo zagotovljeno preživetje revije,« v kateri je bil do 1983 tehnični urednik,
                      1984-2008 namestnik glavnega oziroma odgovornega urednika, od tedaj pa je član
                      uredništva.</p>
-                  <p>Postopoma je – ob sodelovanju kolegice in žene Vanje-Nataše ter glavnega
+                  <p style="text-align:justify">Postopoma je – ob sodelovanju kolegice in žene Vanje-Nataše ter glavnega
                      urednika <hi rend="italic">ZČ</hi> Vasilija Melika – poskrbel za pogostejše
                      izhajanja in večjo naklado ZČ, kakor tudi za ponatise 35 starejših zvezkov. Bil
                      je glavni pobudnik knjižne <hi rend="italic">Zbirke Zgodovinskega
@@ -1383,7 +1383,7 @@
                   zgodovino, kjer je leta 1962 diplomiral z diplomsko nalogo <hi rend="italic"
                      >Goriški Slovenci od prodora pri Kobaridu do konca leta 1918</hi>.</p>
                <note type="description" xml:id="note-9">
-                  <p>Branko Marušič se je rodil 4. februarja 1938 v Gorici. Družina se je preselila
+                  <p style="text-align:justify">Branko Marušič se je rodil 4. februarja 1938 v Gorici. Družina se je preselila
                      v Solkan, kjer je obiskoval osnovno šolo ter nato gimnazijo v Šempetru pri
                      Gorici, Solkanu in v Novi Gorici, kjer je leta 1955 maturiral. Na ljubljanski
                      univerzi se je najprej vpisal na študij medicine, nato pa na zgodovino, kjer je
@@ -1401,7 +1401,7 @@
                      Gorici, sprva kot višji znanstveni sodelavec in potem znanstveni svetnik. Leta
                      2003 je postal častni član ZRC SAZU. Formalno se je upokojil leta 2004, a je
                      ostal aktiven član raziskovalne enote.</p>
-                  <p>Marušičeva temeljna dejavnost je osredotočena na raziskovanje zgodovine
+                  <p style="text-align:justify">Marušičeva temeljna dejavnost je osredotočena na raziskovanje zgodovine
                      goriških oziroma primorskih Slovencev v 19. in v prvi polovici 20. stoletja,
                      ter življenju in delu pomembnih primorskih političnih in duhovnih voditeljev,
                      kar se zrcali v delih <hi rend="italic">Z zlatimi črkami. Življenjske usode in
@@ -1420,9 +1420,9 @@
                         Isontina</hi>, <hi rend="italic">Studi Goriziani</hi>, <hi rend="italic"
                         >Qualestoria</hi>) ter poljudnih zapisov v slovenskem časopisju in revijah
                      je takorekoč nepregleden.</p>
-                  <p>Petra Svoljšak, »Branko Marušič 70-letnik«, <hi rend="italic">Kronika </hi>56
+                  <p style="text-align:justify">Petra Svoljšak, »Branko Marušič 70-letnik«, <hi rend="italic">Kronika </hi>56
                      (2008), št. 1, 105-106.</p>
-                  <p>
+                  <p style="text-align:justify">
                      <hi rend="italic">Primorski slovenski biografski leksikon</hi>, 10. snopič,
                      Gorica 1984, s.v. »Marušič, Branko«.</p>
                </note>
@@ -1438,7 +1438,7 @@
                   Mestnem arhivu, nato pa kot profesor zgodovine in estetske vzgoje na Gimnaziji
                   Koper.</p>
                <note type="description" xml:id="note-10">
-                  <p>Rodil se je 24. decembra 1942 v Metliki. Osnovno šolo in nižjo gimnazijo je
+                  <p style="text-align:justify">Rodil se je 24. decembra 1942 v Metliki. Osnovno šolo in nižjo gimnazijo je
                      obiskoval v Črnomlju, leta 1957 pa šolanje nadaljeval na koprski gimnaziji. Po
                      opravljeni maturi se je leta 1961 vpisal na študij zgodovine in umetnostne
                      zgodovine na Filozofski fakulteti v Ljubljani. S temo <hi rend="italic">Dogodki
@@ -1455,7 +1455,7 @@
                      humanistične študije Primorske univerze v Kopru in doktoriral leta 2014. Junija
                      2006 je bil izvoljen za asistenta. Do leta 2012 je svoje pedagoško delo
                      opravljal v okviru izbirnega predmeta »Zgodovina in etnologija Istre«.</p>
-                  <p>Že kot profesor zgodovine na gimnaziji v Kopru je pričel z raziskavami lokalne
+                  <p style="text-align:justify">Že kot profesor zgodovine na gimnaziji v Kopru je pričel z raziskavami lokalne
                      zgodovine in prvimi objavami v revijalnem in strokovnem tisku (<hi
                         rend="italic">Obala</hi>, <hi rend="italic">Primorska srečanja</hi>). S
                      strokovnimi prispevki ali kot vodja uredniških odborov je sodeloval pri
@@ -1469,7 +1469,7 @@
                      zgodovine Istre 18. in 19. stoletja pa tudi sam aktivno nastopa na različnih
                      strokovnih srečanjih in mednarodnih znanstvenih konferencah doma in v
                      tujini.</p>
-                  <p>Leta 1989 je bil izvoljen za predsednika Zgodovinskega društva za južno
+                  <p style="text-align:justify">Leta 1989 je bil izvoljen za predsednika Zgodovinskega društva za južno
                      Primorsko in to funkcijo opravlja še danes. Od leta 1991 je tudi odgovorni
                      urednik revije <hi rend="italic">Annales</hi> ter član izdajateljskega sveta
                         <hi rend="italic">Acta Histriae</hi> in <hi rend="italic">Knjižnice
@@ -1480,17 +1480,17 @@
                      Concordi v Rovigu, leta 2005 pa je bil s sklepom Vlade RS imenovan tudi za
                      člana slovenskega dela Slovensko-hrvaške zgodovinske komisije. Od leta 2010 je
                      častni član Zveze zgodovinskih društev Slovenije.</p>
-                  <p>
+                  <p style="text-align:justify">
                      <hi rend="italic">Primorski slovenski biografski leksikon</hi>, 18. snopič,
                      Gorica 1992, s.v. »Žitko, Salvator«.</p>
-                  <p>
+                  <p style="text-align:justify">
                      <ref target="http://www.primorci.si/osebe/%C5%BEitko-salvator/1192/">Preberi
                         več</ref>
                   </p>
                </note>
             </div>
             <div xml:id="peter-vodopivec">
-               <head xml:id="head-30">Prof. dr. Peter Vodopivec</head>
+               <head xml:id="head-30">Akad. prof. dr. Peter Vodopivec</head>
                <p xml:id="p-155">Rojen je bil 7. julija 1946 v Beogradu. Osnovno šolo in II.
                   gimnazijo (1957–65) je obiskoval v Ljubljani, kjer se je leta 1965 vpisal na
                   študij zgodovine in sociologije na Filozofski fakulteti. Za diplomsko nalogo <hi
@@ -1499,7 +1499,7 @@
                      >Socialni in gospodarski nazori v slovenskih in sosednjih pokrajinah v
                      predmarčni dobi</hi>.</p>
                <note type="description" xml:id="note-11">
-                  <p>Rojen je bil 7. julija 1946 v Beogradu. Osnovno šolo in II. gimnazijo (1957–65)
+                  <p style="text-align:justify">Rojen je bil 7. julija 1946 v Beogradu. Osnovno šolo in II. gimnazijo (1957–65)
                      je obiskoval v Ljubljani, kjer se je leta 1965 vpisal na študij zgodovine in
                      sociologije na Filozofski fakulteti. Za diplomsko nalogo <hi rend="italic">Luka
                         Knafelj in štipendisti Knafljeve ustanove</hi> je dobil Prešernovo nagrado
@@ -1514,7 +1514,7 @@
                      fakultete in se kot znanstveni svetnik zaposlil na Inštitutu za novejšo
                      zgodovino, kjer je delal do upokojitve leta 2012. Od oktobra istega leta je
                      častni član Zveze zgodovinskih društev Slovenije.</p>
-                  <p>Težišče njegovega dela je zgodovina 19. stoletja. Raziskuje predvsem zgodovino
+                  <p style="text-align:justify">Težišče njegovega dela je zgodovina 19. stoletja. Raziskuje predvsem zgodovino
                      meščanstva, vlogo zgodovine in zgodovinopisja, francosko-slovenske stike,
                      vprašanja politične, idejne, socialne, gospodarske in kulturne zgodovine. V
                      devetdesetih letih je bil eden izmed avtorjev novega učnega programa za
@@ -1530,11 +1530,11 @@
                      Evrope, leta 2010 pa je bil odlikovan tudi z avstrijskim častnim križem za
                      znanost in umetnost I. reda. Leta 2014 je dobil nemško medaljo Konstanina
                      Jirečka za dosežke pri raziskovanju jugovzhodne Evrope.</p>
-                  <p>
+                  <p style="text-align:justify">
                      <hi rend="italic">Oddelek za zgodovino 1920-2010: ob devetdesetletnici</hi>,
                      ur. Janez Mlinar in Mitja Ferenc. Ljubljana: Znanstvena založba Filozofske
                      fakultete, 2010, 66.</p>
-                  <p>Reisp, Branko. <hi rend="italic">Vodopivec, Peter (1946–).</hi> Slovenska
+                  <p style="text-align:justify">Reisp, Branko. <hi rend="italic">Vodopivec, Peter (1946–).</hi> Slovenska
                      biografija. Slovenska akademija znanosti in umetnosti, Znanstvenoraziskovalni
                      center SAZU, 2013.</p>
                </note>
@@ -1548,7 +1548,7 @@
                   leta se je kot stažistka raziskovalka zaposlila na sedanjem Zgodovinskem inštitutu
                   Milka Kosa na ZRC SAZU.</p>
                <note type="description" xml:id="note-12">
-                  <p>Rojena je bila 3. marca 1950 v Ljubljani v družini zgodovinarja Boga
+                  <p style="text-align:justify">Rojena je bila 3. marca 1950 v Ljubljani v družini zgodovinarja Boga
                      Grafenauerja. Leta 1974 je diplomirala na Oddelku za zgodovino Filozofske
                      fakultete v Ljubljani in za diplomsko delo Karantanija v očeh zgodovinarjev od
                      konca XV. do XVIII. stoletja prejela študentsko Prešernovo nagrado. Oktobra
@@ -1568,7 +1568,7 @@
                      Izbrana poglavja iz slovenske srednjeveške zgodovine. V letu 2001 je začela
                      predavati na Fakulteti za humanistične študije v Kopru, kjer je ostala vse do
                      upokojitve leta 2012.</p>
-                  <p>Njeno znanstveno delo zajema objave in analize listinskih in
+                  <p style="text-align:justify">Njeno znanstveno delo zajema objave in analize listinskih in
                      latinsko-italijanskih izvirnikov severnoistrskih mest srednjega veka in prvih
                      stoletij novega veka. Raziskave zadevajo tudi gospodarsko in družbeno zgodovino
                      Slovencev, problematiko zgodovine mest, zgodovino historiografije ter zgodovino
@@ -1581,16 +1581,16 @@
                      (1996), ki jo je pripravila v sodelovanju s Francetom Miheličem in Jasno
                      Pocajt, ter delo Ribič, kje zdaj tvoja barka plava?: piransko ribolovno območje
                      skozi čas (2007).</p>
-                  <p>Sodeluje v različnih uredništvih. Od leta 1995 je članica uredniškega odbora
+                  <p style="text-align:justify">Sodeluje v različnih uredništvih. Od leta 1995 je članica uredniškega odbora
                      revije Annales, od leta 2000 pa članica programskega odbora Acta Histriae. V
                      letih 1987–2002 je bila sourednica za zgodovino do leta 1918 pri Enciklopediji
                      Slovenije. Leta 1996 je bila izvoljena za predsednico Znanstvenega sveta
                      Zgodovinskega inštituta Milka Kosa; naslednje leto je postala svetovalka na
                      Ministrstvu za znanost in tehnologijo. V času od 30. 5. 2000 do 31. 12. 2009 je
                      bila predstojnica Zgodovinskega inštituta Milka Kosa.</p>
-                  <p>Oddelek za zgodovino 1920-2010: ob devetdesetletnici, ur. Janez Mlinar in Mitja
+                  <p style="text-align:justify">Oddelek za zgodovino 1920-2010: ob devetdesetletnici, ur. Janez Mlinar in Mitja
                      Ferenc. Ljubljana: Znanstvena založba Filozofske fakultete, 2010, 39.</p>
-                  <p>Eva Holz, »Darjinih šestdeset let – ob življenskem jubileju prof. dr. Darje
+                  <p style="text-align:justify">Eva Holz, »Darjinih šestdeset let – ob življenskem jubileju prof. dr. Darje
                      Mihelič«, Zgodovinski časopis 64 (2010), št. 3-4, 469-472.</p>
                </note>
             </div>
@@ -1601,7 +1601,7 @@
                   izredni študent leta 1969 diplomiral še na oddelku za zgodovino. Kot srednješolski
                   profesor je poučeval na gimnazijah na Ravnah in v Novem mestu (1959–1965).</p>
                <note type="description" xml:id="note-13">
-                  <p>Jože Mlinarič se je rodil 3. marca 1935 v Mariboru. Po maturi je v Ljubljani
+                  <p style="text-align:justify">Jože Mlinarič se je rodil 3. marca 1935 v Mariboru. Po maturi je v Ljubljani
                      študiral klasično filologijo in leta 1961 diplomiral, nato pa je kot izredni
                      študent leta 1969 diplomiral še na oddelku za zgodovino. Kot srednješolski
                      profesor je poučeval na gimnazijah na Ravnah in v Novem mestu (1959–1965). Od
@@ -1614,7 +1614,7 @@
                      Mariboru, nato se je na slednji ustanovi redno zaposlil in tam predaval vse do
                      svoje upokojitve leta 2000. Leta 1995 je bil habilitiran za rednega
                      profesorja.</p>
-                  <p>Mlinarič raziskuje cerkveno, politično, gospodarsko in kulturno zgodovino
+                  <p style="text-align:justify">Mlinarič raziskuje cerkveno, politično, gospodarsko in kulturno zgodovino
                      slovenskih dežel v obdobju srednjega veka in v prvih treh stoletjih novega
                      veka. Intenzivno se posveča zlasti raziskovanju preteklosti naših samostanov
                      starejših redov (cistercijanov, kartuzijanov in dominikancev). Izsledke svojega
@@ -1629,7 +1629,7 @@
                         zgodovino Maribora</hi> (doslej 36 zvezkov) za čas od 12. do 18. stoletja
                      (Pokrajinski arhiv v Mariboru) ter gradiva za cerkveno zgodovino slovenske
                      Štajerske.</p>
-                  <p>Je dobitnik Prešernove nagrade za študente (1970), nagrade Sklada Borisa
+                  <p style="text-align:justify">Je dobitnik Prešernove nagrade za študente (1970), nagrade Sklada Borisa
                      Kidriča (1988) in Glazerjeve listine za dosežke na področju kulture (1988).
                      Univerza v Mariboru mu je za »izjemne dosežke na znanstveno-raziskovalnem in
                      pedagoškem področju« podelila zlato plaketo (1998), Mestna občina Maribor pa mu
@@ -1642,7 +1642,7 @@
                      Kovačiča v Mariboru. Leta 2003 mu je Univerza podelila naslov zaslužnega
                      profesorja. Od 6. junija 1995 je izredni, od 7. junija 2001 pa redni član
                      SAZU.</p>
-                  <p>
+                  <p style="text-align:justify">
                      <ref target="http://www.sazu.si/o-sazu/clani/joze-mlinaric.html">Preberi
                         več</ref>
                   </p>
