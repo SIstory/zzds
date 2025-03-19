@@ -692,7 +692,7 @@ var tipuesearch = {"pages": [
 { "title": "Nagrade KLIO", "text": "Zveza zgodovinskih društev Slovenije podeljuje tudi priznanje dr. Ervina Dolenca za najboljši prvenec na področju zgodovinopisja.", "tags": "", "url": "nagrade-klio.html#p-522" },
 { "title": "Nagrade KLIO", "text": "Prejemniki nagrade Klio", "tags": "", "url": "nagrade-klio.html#p-523" },
 { "title": "Nagrada Klio 2022-2023", "text": "Prejemniki štirinajste nagrade Klio za najboljše zgodovinopisno delo:", "tags": "", "url": "nagrade-klio.html#p-534" },
-{ "title": "Nagrada Klio 2022-2023", "text": "Oto Luthar, Marta Verginella, Urška Strle, Užaljeno maščevanje: spomin na italijanska fašistična taborišča. (Ljubljana, Založba ZRC, 2023).", "tags": "", "url": "nagrade-klio.html#p-535" },
+{ "title": "Nagrada Klio 2022-2023", "text": "Oto Luthar, Marta Verginella, Urška Strle , Užaljeno maščevanje: spomin na italijanska fašistična taborišča . (Ljubljana, Založba ZRC, 2023).", "tags": "", "url": "nagrade-klio.html#p-535" },
 { "title": "Nagrada Klio 2020-2021", "text": "", "tags": "", "url": "nagrade-klio.html#figure-132" },
 { "title": "Nagrada Klio 2019-2020", "text": "", "tags": "", "url": "nagrade-klio.html#figure-134" },
 { "title": "Nagrada Klio 2019-2020", "text": "", "tags": "", "url": "nagrade-klio.html#figure-135" },
