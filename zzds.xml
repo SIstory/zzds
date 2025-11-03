@@ -99,11 +99,10 @@
                <ref target="mailto:spela.frantar@gimb.org">spela.frantar@gimb.org</ref>
                <hi><lb/> Gimnazija Bežigrad,<lb/> Peričeva 4, 1000 Ljubljana</hi>
             </p>
-            <p xml:id="zzds-p-14">Major mag. <hi rend="bold">Zvezdan Marković</hi>, predsednik
+            <p xml:id="zzds-p-14">Podpolkovnik mag. <hi rend="bold">Zvezdan Marković</hi>, predsednik
                Sekcije za vojaško zgodovino,<lb/>
                <ref target="mailto:zvezdan.markovic@gmail.com">zvezdan.markovic@gmail.com</ref>
-               <lb/> Vojaški muzej Slovenske vojske,<lb/> Kadetnica,<lb/> Engelsova ulica 15, 2111
-               Maribor</p>
+               <lb/> Ministrstvo za obrambo Republike Slovenije,<lb/> Vojkova cesta 55, 1000 Ljubljana</p>
             <p xml:id="zzds-p-16">dr. <hi rend="bold">Branko Šuštar</hi>, predsednik Sekcije za
                zgodovino izobraževanja,<lb/>
                <ref target="mailto:Branko.sustar@guest.arnes.si">Branko.sustar@guest.arnes.si</ref>
@@ -134,7 +133,7 @@
                <p xml:id="zzds-p-23">dr. <hi rend="bold">Aleksander Lorenčič</hi>,<lb/>
                   <ref target="mailto:aleksander.lorencic@pmpo.si">aleksander.lorencic@pmpo.si</ref>
                   <lb/> Pokrajinski muzej Ptuj - Ormož, <lb/> Muzejski trg 1, 2250 Ptuj</p>
-               <p xml:id="zzds-p-22">dr. <hi rend="bold">Marija Počivavšek</hi><lb/>
+               <p xml:id="zzds-p-22">dr. <hi rend="bold">Marija Počivavšek</hi>, predsednica<lb/>
                   <ref target="mailto:Marija.pocivavsek@guest.arnes.si"
                      >Marija.pocivavsek@guest.arnes.si</ref>
                   <lb/> Muzej novejše zgodovine Celje,<lb/> Prešernova ulica 17, 3000
@@ -150,7 +149,7 @@
                   <lb/>
                   <ref target="mailto:bojan.balkovec@ff.uni-lj.si">mailto:bojan.balkovec@ff.uni-lj.si</ref>
                   <lb/> Univerza v Ljubljani, Filozofska fakulteta, Oddelek za zgodovino<lb/> Aškerčeva 2, 1000 Ljubljana</p>
-               <p xml:id="zzds-p-26">dr. <hi rend="bold">Bojan Godeša</hi>
+               <p xml:id="zzds-p-26">dr. <hi rend="bold">Bojan Godeša</hi>, predsednik
                   <lb/>
                   <ref target="mailto:bojan.godesa@inz.si">bojan.godesa@inz.si</ref>
                   <lb/> Inštitut za novejšo zgodovino,<lb/> Privoz 11, 1000 Ljubljana</p>
@@ -700,6 +699,9 @@
                <item>
                   <ref target="https://www.heraldica-slovenica.si/">Heraldica Slovenica</ref>
                </item>
+               <item>
+                  <ref target="https://retrospektive-journal.org/">Združenje Retrospektive</ref>
+               </item>
             </list>
             <p><hi rend="bold">Druge povezave:</hi></p>
             <list rend="bulleted" xml:id="list-13">
@@ -721,7 +723,7 @@
                      >Nadškofijski arhiv Ljubljana</ref>
                </item>
                <item>
-                  <ref target="http://arhiv.nadskofija-maribor.si/">Škofijski arhiv Maribor</ref>
+                  <ref target="https://nadskofija-maribor.si/web/nadskofijski-arhiv/">Nadškofijski arhiv Maribor</ref>
                </item>
                <item>
                   <ref target="http://kp.rkc.si/">Škofijski arhiv Koper</ref>
@@ -737,9 +739,9 @@
                </item>
             </list>
             <list rend="bulleted" xml:id="list-14">
-               <head>Muzeji:</head>
+               <head>Muzeji - izbor:</head>
                <item>
-                  <ref target="http://www.uni-lj.si/univerzitetni_arhiv/">Arhivsko muzejska služba
+                  <ref target="https://www.uni-lj.si/univerza/univerzitetni-arhiv">Arhivsko muzejska služba
                      Univerze v Ljubljani</ref>
                </item>
                <item>
@@ -761,8 +763,7 @@
                   <ref target="http://www.muzej-nz-ce.si/">Muzej novejše zgodovine Celje</ref>
                </item>
                <item>
-                  <ref target="http://www.muzej-nz.si/">Muzej novejše zgodovine Slovenije,
-                     Ljubljana</ref>
+                  <ref target="http://www.muzej-nz.si/">Muzej novejše in sodobne zgodovine Slovenije</ref>
                </item>
                <item>
                   <ref target="http://www.nms.si/">Narodni muzej Slovenije</ref>
@@ -784,7 +785,7 @@
                      Piran</ref>
                </item>
                <item>
-                  <ref target="http://www.ssolski-muzej.si/">Slovenski šolski muzej</ref>
+                  <ref target="https://solskimuzej.si/">Slovenski šolski muzej</ref>
                </item>
             </list>
             <list rend="bulleted" xml:id="list-15">
@@ -824,7 +825,7 @@
                </item>
                <item>
                   <ref
-                     target="http://www.ff.uni-lj.si/1/Oddelki-in-studij/Oddelki/Oddelek-za-zgodovino.aspx"
+                     target="https://zgodovina.ff.uni-lj.si/"
                      >Oddelek za zgodovino, Filozofska fakulteta Univerze v Ljubljani</ref>
                </item>
                <item>
@@ -832,12 +833,12 @@
                      Ljubljani</ref>
                </item>
             </list>
-            <list rend="bulleted" xml:id="list-17">
+            <!--<list rend="bulleted" xml:id="list-17">
                <head>Knjižnice:</head>
                <item>
                   <ref target="http://www.ce.sik.si/">Osrednja knjižnica Celje</ref>
                </item>
-            </list>
+            </list>-->
          </div>
          <div type="preface" xml:id="castni-clani">
             <head xml:id="head-17">Častni člani</head>
@@ -1823,7 +1824,7 @@
             <div xml:id="nevenka-troha">
                <head>Dr. Nevenka Troha</head>
                <figure>
-                  <graphic url="wp-legacy/uploads/2025/03/troha.jpg" width="200px" height="150px"/>
+                  <graphic url="wp-legacy/uploads/2025/08/troha.png" width="200px" height="200px"/>
                </figure>
                <p style="text-align:justify">Nevenka Troha je bila rojena leta 1951 v Ljubljani.
                   Diplomirala iz zgodovine in sociologije na Filozofski fakulteti v Ljubljani. Na
@@ -1892,6 +1893,43 @@
                      tudi po upokojitvi leta 2012.</p>
                </note>
             </div>
+            <div xml:id="Metka_Fujs">
+               <head>Prof. Metka Fujs</head>
+               <figure>
+                  <graphic url="wp-legacy/uploads/2025/08/Fujs.jpg" width="300px" height="450px"/>
+               </figure>
+               <p style="text-align:justify">Po končani gimnaziji v Murski Soboti leta 1978 in
+                  diplomi na Filozofski fakulteti Univerze v Ljubljani s področja obče in narodne
+                  zgodovine in sociologije se je leta 1983 zaposlila kot kustosinja za zgodovino v
+                  Pokrajinskem muzeju Murska Sobota, kjer je opravljala muzealske in raziskovalne
+                  naloge. Kot kustosinja je najprej prevzela zbirko narodnoosvobodilnega boja,
+                  vendar je svoje delo kmalu razširila na širše obdobje novejše in sodobne
+                  zgodovine. Je samostojna raziskovalka in muzejska svetnica, ki strokovno deluje na
+                  področju zgodovine Prekmurja, s poudarkom na politični in gospodarski zgodovini
+                  20. stoletja ter razvoju kulturne in narodne identitete v večnacionalnem in
+                  večkulturnem okolju. Je avtorica knjig in člankov s področij (kulturne) zgodovine
+                  in muzeologije, avtorica ali soavtorica muzejskih stalnih in občasnih razstav ter
+                  razstavnih katalogov, urednica domačih in tujih publikacij. Uredila je šest izdaj
+                     <hi rend="italic">Zbornika soboškega muzeja</hi> (1990–1994, 2017, 2020) in
+                  zbirko publikacij <hi rend="italic">Prišo je glás: Prekmurci v vojni
+                     1914–1918</hi> (2015–2019). Prav tako je uredila katalog razstave <hi
+                     rend="italic">Museums – The World Inside</hi> in pet zbornikov referatov z
+                  letnih konferenc Mednarodnega odbora za regionalne muzeje (2009–2015).</p>
+               <note type="description" xml:id="note-17">
+                  <p style="text-align:justify">Bila je vodja ali sodelavka nacionalnih in
+                     mednarodnih projektov in dobitnica štirih Valvasorjevih odličij za strokovno
+                     delo na muzejskem področju, med temi nagrade za življenjsko delo leta 2019. Med
+                     letoma 2007 in 2014 je bila predsednica Skupnosti muzejev Slovenije, med letoma
+                     2004 in 2016 pa tudi članica predsedstva Mednarodnega odbora za regionalne
+                     muzeje (ICR) pri Mednarodnem muzejskem svetu ICOM. Med letoma 2016 in 2022 je
+                     bila članica komisije Evropskega muzejskega foruma za nagrado Evropskega muzeja
+                     leta (EMYA). Metka Fujs je bila med letoma 2003 in 2007 v. d. direktorice
+                     Pokrajinskega muzeja Murska Sobota, od leta 2007 do upokojitve konec leta 2022
+                     pa direktorica istega muzeja, ki se od leta 2011 imenuje Pomurski muzej Murska
+                     Sobota. </p>
+                  <p style="text-align:justify">Vir: Obrazi slovenskih pokrajin.</p>
+               </note>
+            </div>
          </div>
       </front>
       <body>
@@ -1925,13 +1963,19 @@
                <graphic url="wp-legacy/uploads/2025/07/02.jpg"/>
             </figure>
             <figure xml:id="figure-151">
-               <graphic url="wp-legacy/uploads/2025/07/03.jpg"/>
+               <graphic url="wp-legacy/uploads/2025/08/Stih.jpeg"/>
             </figure>
             <figure xml:id="figure-152">
                <graphic url="wp-legacy/uploads/2025/07/04.jpg"/>
             </figure>
             <figure xml:id="figure-153">
-               <graphic url="wp-legacy/uploads/2025/07/05.jpeg"/>
+               <graphic url="wp-legacy/uploads/2025/08/Remec.jpeg"/>
+            </figure>
+            <figure xml:id="figure-154">
+               <graphic url="wp-legacy/uploads/2025/08/Golec.jpg"/>
+            </figure>
+            <figure xml:id="figure-155">
+               <graphic url="wp-legacy/uploads/2025/08/Cec.jpg"/>
             </figure>
          </div>
          <div type="chapter" xml:id="post-2025-10-06">
